@@ -50,7 +50,7 @@ INSERT INTO IssueTypes (TypeName) VALUES
 
 INSERT INTO Complaints (OrderID, CustomerID, IssueTypeID, Description, Status, ResolutionDate) VALUES
 (1, 1, 1, 'Late delivery', 'Resolved', '2022-01-05'),
-(2, 2, 2, 'Damaged product', 'Unresolved', NULL),
+(2, 2, 2, 'Damaged product', 'Unresolved', '2050-01-01'),
 (3, 3, 3, 'Incorrect item', 'Resolved', '2022-01-06'),
 (4, 4, 4, 'Missing product', 'Resolved', '2022-01-07');
 
