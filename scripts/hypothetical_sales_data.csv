@@ -1,0 +1,501 @@
+orderid,productid,customerid,vendorid,sale_date,quantitysold,productsellingprice,orderstatus,returndate,productname,category,subcategory,customername,customeremail,shippingaddress,billingaddress,vendorname,vendorphone,vendorrating
+10807,8,405,15,2023-08-10,7,8,returned,2023-09-25,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+40782,11,470,13,2023-11-08,9,14,returned,2023-11-25,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+40536,6,258,10,2023-03-28,3,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+93350,10,425,5,2022-07-15,1,3,returned,2022-11-15,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+92109,17,386,14,2022-03-18,9,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+74712,11,490,6,2023-10-01,10,43,returned,2023-10-23,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+41278,14,180,8,2022-10-22,2,14,returned,2023-11-11,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+58403,16,106,10,2022-08-16,3,120,returned,2023-05-15,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+18611,4,252,12,2023-07-19,6,42,returned,2023-09-11,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+78760,3,212,6,2022-04-28,10,43,returned,2023-12-17,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+53342,10,471,9,2022-12-18,9,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+36884,9,153,2,2022-10-25,6,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+14303,10,459,13,2022-01-31,4,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+54790,14,359,13,2022-05-17,8,7,returned,2023-12-17,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+92530,7,227,7,2023-07-27,9,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+95446,4,126,6,2023-02-10,3,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+59948,10,168,12,2022-03-25,5,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+56170,15,336,4,2023-06-07,5,42,returned,2023-11-09,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+58562,9,466,12,2023-07-21,4,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+31385,14,111,14,2023-03-16,10,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+18831,18,388,6,2022-12-13,3,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+81494,6,340,15,2022-12-12,9,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+66822,3,308,15,2023-05-30,1,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+45929,20,268,15,2022-07-20,6,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+96003,14,201,7,2022-07-17,9,4,returned,2023-03-14,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+43277,17,421,15,2023-01-27,2,9,shipped,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+10311,2,449,2,2023-04-09,9,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+36937,6,141,3,2023-07-13,3,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+80251,8,173,9,2022-03-20,10,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+63611,19,374,15,2023-06-16,7,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+76648,8,350,8,2022-05-08,1,5,returned,2023-11-04,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+73802,20,139,13,2022-03-30,10,43,returned,2023-02-11,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+93805,4,307,5,2022-03-05,10,22,shipped,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+57179,18,174,15,2023-03-07,7,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+79731,5,448,13,2022-10-13,5,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+55647,16,235,2,2022-02-15,5,6,returned,2023-03-06,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+35103,18,349,2,2022-09-27,1,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+96494,16,449,9,2023-10-27,8,136,returned,2023-12-17,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+75716,20,178,9,2023-01-12,3,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+12021,12,362,6,2023-07-21,1,22,returned,2023-12-10,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+35474,6,114,13,2022-05-20,4,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+46189,9,487,4,2023-04-25,4,4,returned,2023-09-25,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+33098,6,459,9,2023-11-15,8,11,returned,2023-11-19,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+44118,6,285,9,2022-08-23,1,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+23131,6,355,7,2023-10-24,6,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+13853,16,259,5,2022-12-20,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+11807,10,260,14,2022-10-06,4,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+23803,5,347,15,2022-10-24,9,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+94040,11,359,9,2022-05-04,3,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+76237,18,249,8,2023-09-06,10,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+38832,10,314,9,2022-06-19,4,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+81768,12,320,2,2023-07-28,1,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+29752,14,429,1,2022-04-01,8,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+50304,14,179,3,2022-02-12,3,9,returned,2023-05-10,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+34641,20,315,4,2023-11-18,9,15,shipped,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+57186,8,269,2,2023-08-17,7,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+16817,8,482,1,2023-01-28,3,11,shipped,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+46992,12,422,11,2022-07-15,2,43,returned,2022-09-25,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+81548,20,382,7,2022-04-03,7,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+85832,1,458,13,2023-07-25,1,8,returned,2023-09-28,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+77481,6,245,2,2023-08-27,7,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+85054,9,201,15,2022-10-10,3,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+12569,9,332,2,2023-09-10,6,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+61142,16,267,8,2022-11-11,4,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+71764,6,100,14,2022-05-14,3,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+36685,11,203,9,2023-12-27,5,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+62909,1,166,2,2022-01-14,6,5,returned,2022-11-13,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+52479,18,250,3,2022-07-12,9,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+53746,6,277,1,2023-11-05,10,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+91073,2,387,8,2022-02-07,6,3,placed,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+69858,3,180,3,2022-11-07,10,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+70329,19,161,11,2022-11-16,6,42,returned,2023-05-19,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+86685,16,281,5,2023-01-28,10,321,returned,2023-05-05,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+44651,13,373,5,2023-07-02,5,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+80761,10,475,12,2022-12-09,2,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+45097,8,263,13,2023-01-06,1,43,returned,2023-02-09,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+22785,15,494,12,2023-08-15,1,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+40816,10,320,9,2023-03-25,5,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+37935,17,421,1,2023-05-27,3,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+43416,17,225,8,2022-02-12,5,14,returned,2023-11-13,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+50617,6,115,10,2022-10-07,8,11,returned,2022-10-09,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+26132,6,230,13,2023-08-31,3,5,placed,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+46155,19,118,11,2023-01-16,5,42,returned,2023-05-06,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+97816,13,281,2,2023-09-10,5,111,returned,2023-11-17,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+87141,6,263,11,2023-10-02,3,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+86887,7,488,10,2023-11-17,10,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+21635,18,479,2,2023-01-31,1,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+55183,11,163,14,2023-08-16,5,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+38783,2,379,2,2023-11-09,6,19,placed,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+91375,5,106,1,2022-08-01,1,43,returned,2023-08-14,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+33223,19,218,15,2023-04-04,4,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+51436,9,187,5,2023-04-27,2,11,returned,2023-12-03,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+72587,12,330,6,2022-05-13,4,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+60942,17,177,3,2022-06-20,4,4,returned,2022-11-07,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+39642,9,132,2,2023-12-07,3,14,returned,2023-12-09,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+38436,7,351,9,2023-09-17,3,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+28475,19,355,13,2022-12-25,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+41156,7,485,2,2022-08-23,1,12,returned,2022-09-20,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+55577,5,193,8,2023-03-02,3,4,returned,2023-04-05,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+95672,5,108,10,2023-03-16,1,13,returned,2023-03-22,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+42547,3,156,12,2022-07-02,10,3,returned,2022-11-10,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+29575,8,110,12,2022-05-22,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+44573,11,345,13,2023-12-07,7,14,returned,2023-12-22,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+67212,4,105,3,2022-08-05,2,42,returned,2023-01-05,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+87853,5,467,8,2022-09-12,7,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+87342,20,296,7,2023-05-03,2,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+96042,9,409,5,2023-10-25,10,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+67620,1,406,11,2023-06-16,9,5,returned,2023-06-22,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+29965,10,154,12,2022-02-23,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+30213,7,439,8,2022-03-14,2,7,returned,2023-05-03,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+34307,5,454,5,2023-01-16,8,9,shipped,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+64693,11,457,6,2022-02-02,7,8,returned,2022-06-17,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+90192,20,209,8,2022-04-20,3,4,returned,2022-12-28,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+31123,13,131,15,2023-09-20,2,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+19455,11,207,13,2023-01-10,6,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+73370,3,130,3,2022-09-04,6,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+38016,9,238,10,2022-05-15,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+80367,11,439,10,2022-11-14,3,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+81311,11,462,2,2022-12-03,4,22,shipped,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+15424,17,284,2,2023-02-02,5,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+81211,2,256,11,2023-07-21,9,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+77864,4,499,1,2023-08-01,6,3,placed,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+41599,19,450,6,2023-09-22,10,5,returned,2023-12-29,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+85865,12,352,15,2022-12-21,2,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+20810,4,160,12,2022-12-06,1,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+29219,12,400,15,2022-09-24,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+32690,13,389,14,2023-10-08,1,165,returned,2023-10-26,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+17534,8,213,5,2023-01-05,5,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+92238,18,328,11,2022-01-15,6,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+74176,7,446,6,2023-05-24,1,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+80273,14,499,2,2022-02-23,7,321,returned,2023-05-17,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+38857,18,280,12,2023-04-18,8,12,returned,2023-04-19,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+18337,11,288,8,2023-07-15,3,4,returned,2023-10-30,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+46726,9,116,7,2022-08-21,3,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+41647,9,297,4,2022-12-18,2,4,returned,2023-05-07,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+97881,4,127,8,2023-12-05,5,13,returned,2023-12-13,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+64296,14,448,7,2023-02-13,6,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+12633,13,450,1,2022-01-09,10,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+32104,12,234,9,2023-12-23,4,3,returned,2023-12-27,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+54972,20,103,1,2022-06-04,10,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+82104,19,305,14,2023-07-24,3,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+22353,20,206,14,2022-12-01,10,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+82037,8,146,1,2022-11-10,7,3,shipped,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+60295,13,154,13,2022-05-18,5,8,returned,2023-04-07,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+93467,20,126,9,2023-04-29,10,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+42337,2,105,7,2023-12-10,1,42,returned,2023-12-14,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+53701,3,180,10,2022-08-27,4,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+50153,1,179,15,2022-09-28,2,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+34092,11,432,3,2022-05-18,9,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+57153,19,257,5,2022-11-22,6,33,returned,2023-09-12,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+62347,17,208,13,2023-05-21,7,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+53757,8,124,7,2023-11-01,7,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+34663,8,198,8,2023-03-23,2,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+30350,19,410,11,2023-08-11,9,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+67565,19,181,2,2023-07-10,1,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+87429,20,380,2,2023-08-26,4,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+83858,6,246,3,2023-01-29,10,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+26059,1,200,14,2022-04-21,7,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+32175,4,484,15,2022-06-05,2,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+32332,11,258,14,2022-03-25,2,136,returned,2022-07-21,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+86602,10,410,4,2022-10-24,3,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+74661,1,146,8,2023-01-31,1,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+47179,16,245,12,2023-09-24,10,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+89570,16,318,8,2022-06-18,5,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+73040,19,348,11,2022-11-02,8,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+25941,20,367,15,2022-11-28,7,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+84163,12,125,13,2023-01-27,8,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+45285,4,475,8,2023-08-31,3,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+40743,6,107,10,2022-02-08,5,120,shipped,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+39691,11,133,13,2023-07-26,8,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+76209,3,143,15,2023-12-03,2,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+24295,2,396,14,2023-08-30,6,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+19290,9,496,10,2023-01-02,4,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+70259,6,195,5,2023-06-13,4,3,returned,2023-08-06,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+85733,1,255,4,2023-04-12,6,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+97151,17,423,9,2022-02-21,1,9,returned,2023-09-10,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+15909,12,449,5,2022-06-08,8,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+95021,11,185,10,2023-01-07,4,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+11612,12,460,6,2022-02-04,5,7,returned,2023-06-04,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+73440,17,133,6,2022-07-27,3,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+50888,13,206,11,2023-07-19,8,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+27921,4,239,4,2022-05-11,4,14,returned,2023-06-05,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+79463,13,209,13,2022-12-27,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+24193,6,455,3,2023-10-29,9,111,returned,2023-12-24,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+31550,10,237,11,2023-05-05,10,9,placed,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+63862,9,377,14,2022-07-11,9,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+34554,6,406,4,2023-08-16,5,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+68650,5,296,4,2023-10-29,9,11,returned,2023-12-03,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+92098,1,248,15,2022-09-10,6,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+71497,12,307,6,2023-01-17,9,12,placed,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+32953,1,329,5,2022-01-03,5,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+67845,18,216,4,2023-12-05,1,33,returned,2023-12-13,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+14568,9,171,4,2023-04-19,7,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+67804,12,191,7,2023-04-03,8,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+18468,1,146,3,2023-03-19,9,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+78211,10,247,7,2023-03-17,6,120,returned,2023-10-31,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+68419,14,144,2,2022-10-08,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+92066,3,486,1,2022-05-12,9,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+41674,13,445,6,2023-02-03,6,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+96209,2,499,5,2023-07-27,7,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+65293,8,113,9,2022-07-13,7,11,returned,2023-10-07,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+55622,8,367,8,2022-08-27,7,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+51116,17,307,8,2022-10-11,1,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+58148,17,430,15,2023-01-12,7,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+70521,14,388,14,2023-11-19,3,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+65104,1,488,10,2023-02-13,1,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+32678,18,116,7,2023-02-13,10,123,returned,2023-05-26,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+49383,13,428,5,2022-07-06,8,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+91752,6,156,8,2022-01-12,9,42,returned,2022-04-13,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+82870,10,313,7,2022-05-15,8,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+47983,6,266,11,2023-07-11,8,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+72134,7,428,7,2023-11-01,9,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+75496,15,206,5,2023-09-22,1,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+35892,20,149,1,2022-04-19,1,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+26053,20,500,13,2022-08-02,2,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+92352,3,443,4,2022-03-30,6,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+83442,16,396,6,2023-12-04,4,22,returned,2023-12-29,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+70173,10,468,14,2022-08-05,4,7,returned,2023-03-01,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+67273,18,291,13,2022-04-27,2,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+18195,7,238,12,2023-10-12,1,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+43463,16,258,11,2022-02-06,4,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+91854,14,276,2,2023-01-30,5,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+94242,5,270,13,2022-02-01,7,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+83520,9,162,11,2023-09-19,5,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+98247,15,333,12,2023-11-02,7,3,placed,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+96726,6,422,2,2022-06-20,8,120,returned,2022-09-07,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+84001,4,358,6,2023-02-25,9,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+40542,2,416,6,2022-05-28,9,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+70232,17,177,7,2022-02-19,1,3,returned,2022-12-22,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+63443,8,405,2,2023-09-18,2,4,returned,2023-10-12,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+39860,13,336,4,2022-10-04,3,3,returned,2023-08-10,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+85261,1,392,11,2023-10-16,9,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+48165,1,481,10,2023-10-29,10,5,returned,2023-12-25,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+45814,2,356,2,2023-12-01,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+26851,5,486,14,2022-01-25,10,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+11758,17,374,2,2023-01-09,1,4,returned,2023-11-07,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+36703,3,147,14,2022-03-28,1,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+11287,2,396,13,2022-02-16,9,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+70368,16,141,2,2022-01-08,10,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+88995,1,106,4,2023-05-16,3,22,returned,2023-09-24,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+70252,20,109,5,2022-02-17,10,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+96834,20,478,7,2023-09-13,1,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+54290,17,376,1,2023-08-31,3,120,shipped,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+96610,5,163,8,2022-12-17,4,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+91305,17,223,5,2023-06-20,10,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+88908,7,320,3,2022-07-09,2,111,returned,2023-09-11,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+70117,16,303,11,2023-10-18,9,3,returned,2023-10-29,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+76526,2,368,15,2023-01-30,8,14,returned,2023-07-27,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+55949,13,397,10,2022-11-07,6,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+47034,6,479,7,2022-09-13,8,42,returned,2023-06-23,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+61370,10,266,6,2023-07-28,10,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+50047,14,107,6,2022-12-11,4,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+54598,14,275,10,2023-05-07,2,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+71105,2,183,9,2022-11-23,5,11,shipped,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+71247,15,262,7,2022-05-10,8,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+45646,12,306,14,2023-03-25,4,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+63735,13,280,1,2023-08-18,4,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+58795,1,302,5,2023-11-21,6,15,returned,2023-11-26,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+45140,13,409,1,2023-10-09,3,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+98596,18,257,7,2022-10-05,2,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+14647,18,127,15,2023-02-24,2,14,returned,2023-04-06,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+99260,2,261,2,2022-04-05,8,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+14174,9,298,2,2023-10-01,10,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+71667,19,361,13,2023-03-21,2,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+54249,11,478,10,2022-02-21,9,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+80597,17,140,15,2023-05-26,3,9,returned,2023-12-13,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+26915,13,262,12,2023-02-12,6,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+24164,17,189,3,2023-07-14,5,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+56691,7,350,8,2022-11-15,9,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+94737,16,274,10,2022-03-09,8,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+38076,9,464,14,2023-07-23,2,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+60838,8,240,10,2023-02-08,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+50688,15,346,14,2022-02-21,4,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+66969,2,125,12,2023-10-02,6,22,returned,2023-10-31,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+26719,14,220,3,2022-12-04,3,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+18772,6,276,13,2022-07-19,6,7,shipped,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+76157,12,403,1,2023-04-03,1,321,returned,2023-09-03,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+62167,15,134,14,2023-03-27,9,14,returned,2023-04-07,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+18119,1,344,14,2022-06-15,2,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+41481,2,301,3,2023-12-03,10,5,shipped,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+85033,3,467,5,2023-04-10,1,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+81862,2,352,13,2023-04-28,9,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+90807,6,261,1,2023-05-10,9,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+45521,16,139,3,2023-07-12,8,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+41956,3,251,14,2022-05-11,8,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+55881,5,274,12,2023-12-02,9,3,returned,2023-12-30,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+13328,7,212,15,2023-01-30,7,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+69723,7,345,9,2023-06-26,7,14,returned,2023-10-24,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+86033,3,409,6,2023-01-10,1,7,returned,2023-09-22,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+66865,5,235,14,2022-03-21,4,6,returned,2022-08-11,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+97376,14,401,15,2023-11-30,1,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+41207,4,276,3,2022-10-07,9,42,returned,2022-12-19,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+95826,3,459,7,2023-09-02,4,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+22012,9,395,2,2023-05-03,10,6,returned,2023-11-07,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+75868,4,110,4,2022-07-18,2,12,returned,2023-01-30,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+97479,3,280,4,2022-01-05,2,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+27538,8,449,14,2023-10-11,3,11,returned,2023-12-26,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+81570,2,257,11,2022-11-01,2,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+89731,8,155,8,2022-11-17,6,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+83163,10,190,10,2023-07-17,6,3,returned,2023-11-04,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+79026,14,134,4,2022-06-19,5,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+63655,9,440,10,2022-04-19,10,5,shipped,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+20046,15,241,6,2023-07-31,3,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+18053,19,494,5,2022-01-10,4,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+95221,3,356,1,2023-02-04,2,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+19052,13,125,14,2023-01-19,1,43,returned,2023-11-11,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+75107,12,354,10,2022-11-06,1,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+71830,17,424,12,2023-01-02,3,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+24686,3,492,5,2022-05-31,8,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+20646,11,300,9,2023-10-20,3,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+82562,20,151,14,2023-11-22,5,22,returned,2023-12-01,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+33079,20,485,11,2022-10-26,10,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+95602,6,417,15,2022-02-01,10,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+52464,13,302,6,2023-05-06,3,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+63579,8,113,2,2022-07-04,1,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+99103,4,207,7,2022-09-25,1,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+48383,15,215,10,2023-11-15,5,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+41383,19,315,14,2022-10-12,1,321,returned,2023-10-04,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+28998,17,174,14,2023-12-19,3,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+54002,7,485,12,2023-01-06,7,123,returned,2023-03-05,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+49159,7,212,5,2022-10-13,10,3,returned,2023-03-12,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+11247,14,344,10,2022-03-17,1,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+21713,16,230,9,2022-04-06,8,6,placed,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+46059,9,244,1,2023-11-08,3,11,returned,2023-11-18,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+72803,6,463,8,2022-09-26,1,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+99115,14,188,4,2022-04-05,1,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+81257,9,243,2,2022-05-24,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+23075,9,368,4,2023-08-29,4,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+39792,18,435,9,2023-06-13,5,58,shipped,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+62270,7,177,8,2022-07-17,1,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+61398,8,155,2,2022-09-16,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+51879,10,217,15,2023-07-01,7,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+48154,4,307,15,2023-03-22,10,7,shipped,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+57814,1,214,15,2023-06-30,4,4,returned,2023-12-29,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+63817,17,222,15,2022-09-27,4,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+43934,6,468,12,2023-10-10,2,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+84757,12,360,7,2022-04-27,3,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+46204,6,178,1,2023-10-03,1,120,returned,2023-11-10,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+27203,3,171,8,2022-03-09,4,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+82198,1,500,15,2022-09-30,8,3,returned,2023-05-28,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+12166,7,128,8,2022-10-28,3,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+54839,2,107,10,2022-09-11,1,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+73594,19,322,1,2023-07-08,2,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+72500,2,111,14,2022-05-23,9,14,returned,2023-11-08,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+60991,7,268,13,2023-03-05,1,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+54575,9,160,13,2022-02-13,5,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+47936,12,326,6,2023-05-07,6,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+94629,8,170,14,2023-11-17,10,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+52747,16,256,12,2022-07-20,2,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+29578,15,167,13,2022-03-18,5,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+62989,9,312,5,2023-01-28,8,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+19133,16,313,4,2023-11-08,1,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+76908,19,430,5,2023-09-28,6,6,returned,2023-12-10,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+29853,20,126,12,2022-12-03,4,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+34171,12,183,5,2022-07-05,6,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+59290,14,341,8,2023-10-23,10,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+36489,17,434,13,2022-04-25,4,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+87681,7,210,14,2022-10-20,7,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+96006,20,343,9,2023-09-27,6,111,returned,2023-10-09,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+79894,6,117,7,2022-09-03,3,3,shipped,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+17971,7,287,12,2022-06-11,5,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+54669,6,483,11,2022-07-15,1,3,returned,2023-03-05,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+76084,20,298,3,2022-12-13,1,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+72908,6,319,10,2023-10-21,2,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+71675,16,230,14,2022-05-22,6,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+95427,18,172,3,2023-07-09,1,120,returned,2023-11-19,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+23438,20,349,10,2023-04-19,5,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+15199,20,220,2,2023-11-13,10,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+89993,17,203,5,2023-09-12,6,7,returned,2023-12-08,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+98111,14,112,6,2022-04-24,9,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+31205,7,251,10,2022-04-24,10,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+14316,5,470,11,2022-03-04,2,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+84764,16,152,7,2023-12-26,1,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+46461,18,168,8,2022-05-19,8,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+59144,17,322,9,2023-08-12,3,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+32582,6,276,2,2022-09-19,2,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+75648,19,323,5,2022-04-20,4,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+83034,17,458,15,2022-01-21,1,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+14474,14,483,14,2023-07-04,4,321,returned,2023-10-18,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+99829,10,249,13,2023-06-02,6,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+96436,9,496,15,2022-07-03,3,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+29566,16,495,12,2023-05-29,1,22,shipped,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+55826,17,156,5,2023-03-24,1,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+29001,16,463,13,2022-02-02,10,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+92431,16,201,7,2023-12-09,6,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+58353,13,118,14,2022-12-24,6,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+53956,4,399,2,2023-07-26,2,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+20722,10,292,3,2022-08-04,3,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+39522,6,478,5,2022-11-13,10,7,returned,2022-12-09,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+93672,14,105,3,2022-05-04,10,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+71430,10,264,6,2023-09-22,10,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+32424,15,288,10,2022-09-17,3,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+87951,18,411,4,2022-11-14,10,4,returned,2023-09-25,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+78461,18,371,8,2023-10-23,3,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+73156,2,258,9,2023-04-04,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+36220,6,380,7,2022-01-06,4,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+34679,10,310,14,2022-04-26,9,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+10305,8,266,6,2022-11-04,8,19,returned,2023-03-20,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+29264,14,252,12,2023-01-23,7,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+69093,8,199,15,2023-10-26,5,42,returned,2023-12-30,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+44953,14,390,12,2023-03-29,8,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+59520,10,302,7,2022-08-11,10,120,returned,2023-08-11,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+31842,4,122,13,2022-03-08,6,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+35849,6,392,10,2022-09-09,9,123,returned,2022-12-06,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+74130,11,447,10,2022-06-24,6,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+61659,16,492,1,2022-10-05,6,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+22536,10,295,9,2023-11-20,4,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+24073,13,239,15,2023-07-17,9,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+38257,5,424,8,2023-12-09,7,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+17229,12,139,13,2023-04-27,3,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+72255,19,193,12,2022-10-03,8,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+95679,3,343,7,2023-08-08,3,120,returned,2023-08-13,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+57833,8,359,12,2023-10-09,10,19,placed,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+11838,19,269,6,2022-04-04,9,43,returned,2022-09-15,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+57803,2,327,3,2023-08-26,7,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+30268,12,452,6,2023-02-10,3,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+35228,15,410,10,2023-04-08,1,43,returned,2023-08-22,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+42544,16,469,13,2023-08-30,7,11,returned,2023-12-12,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+20394,3,132,6,2022-01-18,9,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+26648,18,139,6,2022-05-15,5,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+15113,10,308,7,2022-05-28,6,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+66574,6,458,7,2022-03-02,10,9,returned,2023-11-04,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+43753,19,193,7,2022-02-26,3,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+30243,10,359,12,2022-09-30,7,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+57910,5,456,13,2022-03-10,3,13,returned,2023-01-02,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+43827,2,339,14,2022-12-21,2,58,returned,2023-03-10,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+82730,17,426,10,2023-01-13,5,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+78414,3,323,13,2023-12-16,9,15,shipped,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+14045,19,286,11,2023-07-21,5,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+74306,1,341,9,2023-11-27,7,9,returned,2023-12-21,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+42814,15,238,11,2022-07-23,1,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+71582,12,304,6,2023-06-06,2,120,returned,2023-11-01,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+41669,9,190,2,2022-07-24,3,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+66027,5,415,2,2022-04-05,9,4,returned,2022-10-17,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+69924,20,462,13,2023-01-11,1,3,returned,2023-05-23,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+79333,11,212,13,2022-07-19,5,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+65675,6,110,9,2022-10-25,9,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+21551,10,343,14,2022-01-08,6,19,placed,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+78679,7,211,14,2023-07-09,3,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+42017,14,320,8,2023-08-29,8,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+77985,18,292,9,2023-01-09,1,6,placed,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+73422,9,133,10,2022-06-02,10,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+73700,2,232,10,2022-09-14,4,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+56656,3,121,1,2022-09-24,6,6,returned,2023-03-01,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+36332,14,329,6,2023-09-08,6,111,returned,2023-12-12,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+64365,17,187,8,2022-12-10,5,6,returned,2023-05-30,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+25801,13,224,4,2023-05-17,7,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+69316,15,340,4,2023-02-16,6,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+41084,8,225,9,2023-10-12,5,42,returned,2023-12-22,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+36323,14,232,2,2023-01-26,9,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+45711,13,104,8,2023-03-06,1,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
+53371,5,340,12,2023-04-14,3,5,shipped,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+16182,20,350,4,2022-10-11,4,12,returned,2023-05-01,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+61622,14,377,7,2023-04-25,4,3,returned,2023-12-06,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+24298,15,346,12,2023-05-24,3,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+87480,18,105,6,2023-06-23,5,321,returned,2023-09-25,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+55322,1,119,2,2022-12-16,4,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+55169,3,357,1,2022-12-19,9,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+30917,14,366,15,2023-10-21,8,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+86230,11,423,1,2023-09-19,4,321,returned,2023-11-14,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+15722,20,366,11,2023-06-01,8,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+46581,12,333,4,2022-02-28,5,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+22625,9,357,5,2023-04-14,7,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+49104,3,487,13,2023-12-16,7,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+82722,11,288,14,2022-06-29,8,123,returned,2023-04-22,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+68725,6,231,2,2022-10-02,4,4,returned,2023-10-07,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+90642,7,107,14,2022-11-09,4,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
+43749,19,166,11,2022-06-04,5,9,returned,2023-05-18,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+28215,18,295,5,2022-12-04,2,321,returned,2023-12-17,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+21131,18,116,8,2022-02-23,7,43,returned,2023-03-29,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+58569,16,199,4,2022-10-18,7,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+70287,10,111,8,2022-01-07,6,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+46008,15,195,9,2023-12-30,1,111,returned,2023-12-30,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+42017,18,328,3,2022-03-14,8,4,returned,2023-11-02,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+15510,12,219,11,2023-01-24,7,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+10028,5,349,6,2022-11-28,2,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+12247,1,222,8,2022-08-31,8,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+51426,3,162,15,2023-03-29,4,14,returned,2023-08-15,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+57059,18,297,4,2022-01-16,2,12,returned,2023-08-08,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+96692,17,402,14,2023-04-03,7,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+61949,20,392,12,2022-07-29,6,11,returned,2022-10-11,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
+63496,1,407,8,2023-06-27,3,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+28479,18,126,5,2023-02-11,9,9,returned,2023-03-04,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
+25372,2,376,11,2022-12-27,6,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+99983,10,265,5,2022-01-05,8,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+71488,14,451,7,2023-01-13,2,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+74602,16,489,10,2023-08-25,9,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+61630,12,209,14,2023-05-27,1,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+52255,2,191,10,2023-06-21,2,11,returned,2023-08-01,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+45950,13,163,11,2023-03-20,6,42,returned,2023-07-19,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+84662,20,445,15,2023-12-22,6,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+83064,8,278,8,2022-10-01,3,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+53465,19,331,10,2023-10-30,4,14,returned,2023-11-23,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+68714,13,201,9,2023-11-19,4,120,returned,2023-12-16,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
+29675,4,297,15,2023-10-16,1,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
+51249,7,146,13,2022-07-05,9,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
+91623,11,334,4,2023-04-03,2,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
+66834,3,339,7,2023-03-09,3,123,returned,2023-05-20,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
+28622,12,398,4,2022-04-11,2,43,returned,2023-06-16,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
+85574,13,464,5,2023-02-13,1,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
