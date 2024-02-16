@@ -1,501 +1,501 @@
-orderid,productid,customerid,vendorid,sale_date,quantitysold,productsellingprice,orderstatus,returndate,productname,category,subcategory,customername,customeremail,shippingaddress,billingaddress,vendorname,vendorphone,vendorrating
-10807,8,405,15,2023-08-10,7,8,returned,2023-09-25,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-40782,11,470,13,2023-11-08,9,14,returned,2023-11-25,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-40536,6,258,10,2023-03-28,3,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-93350,10,425,5,2022-07-15,1,3,returned,2022-11-15,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-92109,17,386,14,2022-03-18,9,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-74712,11,490,6,2023-10-01,10,43,returned,2023-10-23,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-41278,14,180,8,2022-10-22,2,14,returned,2023-11-11,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-58403,16,106,10,2022-08-16,3,120,returned,2023-05-15,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-18611,4,252,12,2023-07-19,6,42,returned,2023-09-11,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-78760,3,212,6,2022-04-28,10,43,returned,2023-12-17,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-53342,10,471,9,2022-12-18,9,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-36884,9,153,2,2022-10-25,6,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-14303,10,459,13,2022-01-31,4,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-54790,14,359,13,2022-05-17,8,7,returned,2023-12-17,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-92530,7,227,7,2023-07-27,9,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-95446,4,126,6,2023-02-10,3,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-59948,10,168,12,2022-03-25,5,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-56170,15,336,4,2023-06-07,5,42,returned,2023-11-09,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-58562,9,466,12,2023-07-21,4,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-31385,14,111,14,2023-03-16,10,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-18831,18,388,6,2022-12-13,3,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-81494,6,340,15,2022-12-12,9,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-66822,3,308,15,2023-05-30,1,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-45929,20,268,15,2022-07-20,6,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-96003,14,201,7,2022-07-17,9,4,returned,2023-03-14,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-43277,17,421,15,2023-01-27,2,9,shipped,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-10311,2,449,2,2023-04-09,9,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-36937,6,141,3,2023-07-13,3,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-80251,8,173,9,2022-03-20,10,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-63611,19,374,15,2023-06-16,7,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-76648,8,350,8,2022-05-08,1,5,returned,2023-11-04,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-73802,20,139,13,2022-03-30,10,43,returned,2023-02-11,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-93805,4,307,5,2022-03-05,10,22,shipped,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-57179,18,174,15,2023-03-07,7,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-79731,5,448,13,2022-10-13,5,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-55647,16,235,2,2022-02-15,5,6,returned,2023-03-06,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-35103,18,349,2,2022-09-27,1,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-96494,16,449,9,2023-10-27,8,136,returned,2023-12-17,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-75716,20,178,9,2023-01-12,3,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-12021,12,362,6,2023-07-21,1,22,returned,2023-12-10,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-35474,6,114,13,2022-05-20,4,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-46189,9,487,4,2023-04-25,4,4,returned,2023-09-25,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-33098,6,459,9,2023-11-15,8,11,returned,2023-11-19,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-44118,6,285,9,2022-08-23,1,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-23131,6,355,7,2023-10-24,6,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-13853,16,259,5,2022-12-20,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-11807,10,260,14,2022-10-06,4,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-23803,5,347,15,2022-10-24,9,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-94040,11,359,9,2022-05-04,3,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-76237,18,249,8,2023-09-06,10,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-38832,10,314,9,2022-06-19,4,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-81768,12,320,2,2023-07-28,1,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-29752,14,429,1,2022-04-01,8,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-50304,14,179,3,2022-02-12,3,9,returned,2023-05-10,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-34641,20,315,4,2023-11-18,9,15,shipped,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-57186,8,269,2,2023-08-17,7,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-16817,8,482,1,2023-01-28,3,11,shipped,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-46992,12,422,11,2022-07-15,2,43,returned,2022-09-25,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-81548,20,382,7,2022-04-03,7,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-85832,1,458,13,2023-07-25,1,8,returned,2023-09-28,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-77481,6,245,2,2023-08-27,7,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-85054,9,201,15,2022-10-10,3,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-12569,9,332,2,2023-09-10,6,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-61142,16,267,8,2022-11-11,4,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-71764,6,100,14,2022-05-14,3,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-36685,11,203,9,2023-12-27,5,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-62909,1,166,2,2022-01-14,6,5,returned,2022-11-13,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-52479,18,250,3,2022-07-12,9,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-53746,6,277,1,2023-11-05,10,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-91073,2,387,8,2022-02-07,6,3,placed,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-69858,3,180,3,2022-11-07,10,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-70329,19,161,11,2022-11-16,6,42,returned,2023-05-19,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-86685,16,281,5,2023-01-28,10,321,returned,2023-05-05,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-44651,13,373,5,2023-07-02,5,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-80761,10,475,12,2022-12-09,2,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-45097,8,263,13,2023-01-06,1,43,returned,2023-02-09,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-22785,15,494,12,2023-08-15,1,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-40816,10,320,9,2023-03-25,5,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-37935,17,421,1,2023-05-27,3,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-43416,17,225,8,2022-02-12,5,14,returned,2023-11-13,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-50617,6,115,10,2022-10-07,8,11,returned,2022-10-09,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-26132,6,230,13,2023-08-31,3,5,placed,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-46155,19,118,11,2023-01-16,5,42,returned,2023-05-06,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-97816,13,281,2,2023-09-10,5,111,returned,2023-11-17,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-87141,6,263,11,2023-10-02,3,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-86887,7,488,10,2023-11-17,10,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-21635,18,479,2,2023-01-31,1,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-55183,11,163,14,2023-08-16,5,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-38783,2,379,2,2023-11-09,6,19,placed,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-91375,5,106,1,2022-08-01,1,43,returned,2023-08-14,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-33223,19,218,15,2023-04-04,4,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-51436,9,187,5,2023-04-27,2,11,returned,2023-12-03,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-72587,12,330,6,2022-05-13,4,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-60942,17,177,3,2022-06-20,4,4,returned,2022-11-07,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-39642,9,132,2,2023-12-07,3,14,returned,2023-12-09,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-38436,7,351,9,2023-09-17,3,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-28475,19,355,13,2022-12-25,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-41156,7,485,2,2022-08-23,1,12,returned,2022-09-20,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-55577,5,193,8,2023-03-02,3,4,returned,2023-04-05,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-95672,5,108,10,2023-03-16,1,13,returned,2023-03-22,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-42547,3,156,12,2022-07-02,10,3,returned,2022-11-10,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-29575,8,110,12,2022-05-22,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-44573,11,345,13,2023-12-07,7,14,returned,2023-12-22,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-67212,4,105,3,2022-08-05,2,42,returned,2023-01-05,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-87853,5,467,8,2022-09-12,7,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-87342,20,296,7,2023-05-03,2,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-96042,9,409,5,2023-10-25,10,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-67620,1,406,11,2023-06-16,9,5,returned,2023-06-22,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-29965,10,154,12,2022-02-23,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-30213,7,439,8,2022-03-14,2,7,returned,2023-05-03,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-34307,5,454,5,2023-01-16,8,9,shipped,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-64693,11,457,6,2022-02-02,7,8,returned,2022-06-17,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-90192,20,209,8,2022-04-20,3,4,returned,2022-12-28,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-31123,13,131,15,2023-09-20,2,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-19455,11,207,13,2023-01-10,6,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-73370,3,130,3,2022-09-04,6,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-38016,9,238,10,2022-05-15,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-80367,11,439,10,2022-11-14,3,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-81311,11,462,2,2022-12-03,4,22,shipped,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-15424,17,284,2,2023-02-02,5,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-81211,2,256,11,2023-07-21,9,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-77864,4,499,1,2023-08-01,6,3,placed,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-41599,19,450,6,2023-09-22,10,5,returned,2023-12-29,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-85865,12,352,15,2022-12-21,2,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-20810,4,160,12,2022-12-06,1,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-29219,12,400,15,2022-09-24,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-32690,13,389,14,2023-10-08,1,165,returned,2023-10-26,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-17534,8,213,5,2023-01-05,5,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-92238,18,328,11,2022-01-15,6,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-74176,7,446,6,2023-05-24,1,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-80273,14,499,2,2022-02-23,7,321,returned,2023-05-17,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-38857,18,280,12,2023-04-18,8,12,returned,2023-04-19,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-18337,11,288,8,2023-07-15,3,4,returned,2023-10-30,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-46726,9,116,7,2022-08-21,3,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-41647,9,297,4,2022-12-18,2,4,returned,2023-05-07,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-97881,4,127,8,2023-12-05,5,13,returned,2023-12-13,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-64296,14,448,7,2023-02-13,6,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-12633,13,450,1,2022-01-09,10,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-32104,12,234,9,2023-12-23,4,3,returned,2023-12-27,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-54972,20,103,1,2022-06-04,10,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-82104,19,305,14,2023-07-24,3,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-22353,20,206,14,2022-12-01,10,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-82037,8,146,1,2022-11-10,7,3,shipped,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-60295,13,154,13,2022-05-18,5,8,returned,2023-04-07,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-93467,20,126,9,2023-04-29,10,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-42337,2,105,7,2023-12-10,1,42,returned,2023-12-14,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-53701,3,180,10,2022-08-27,4,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-50153,1,179,15,2022-09-28,2,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-34092,11,432,3,2022-05-18,9,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-57153,19,257,5,2022-11-22,6,33,returned,2023-09-12,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-62347,17,208,13,2023-05-21,7,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-53757,8,124,7,2023-11-01,7,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-34663,8,198,8,2023-03-23,2,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-30350,19,410,11,2023-08-11,9,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-67565,19,181,2,2023-07-10,1,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-87429,20,380,2,2023-08-26,4,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-83858,6,246,3,2023-01-29,10,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-26059,1,200,14,2022-04-21,7,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-32175,4,484,15,2022-06-05,2,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-32332,11,258,14,2022-03-25,2,136,returned,2022-07-21,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-86602,10,410,4,2022-10-24,3,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-74661,1,146,8,2023-01-31,1,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-47179,16,245,12,2023-09-24,10,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-89570,16,318,8,2022-06-18,5,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-73040,19,348,11,2022-11-02,8,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-25941,20,367,15,2022-11-28,7,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-84163,12,125,13,2023-01-27,8,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-45285,4,475,8,2023-08-31,3,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-40743,6,107,10,2022-02-08,5,120,shipped,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-39691,11,133,13,2023-07-26,8,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-76209,3,143,15,2023-12-03,2,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-24295,2,396,14,2023-08-30,6,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-19290,9,496,10,2023-01-02,4,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-70259,6,195,5,2023-06-13,4,3,returned,2023-08-06,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-85733,1,255,4,2023-04-12,6,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-97151,17,423,9,2022-02-21,1,9,returned,2023-09-10,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-15909,12,449,5,2022-06-08,8,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-95021,11,185,10,2023-01-07,4,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-11612,12,460,6,2022-02-04,5,7,returned,2023-06-04,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-73440,17,133,6,2022-07-27,3,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-50888,13,206,11,2023-07-19,8,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-27921,4,239,4,2022-05-11,4,14,returned,2023-06-05,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-79463,13,209,13,2022-12-27,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-24193,6,455,3,2023-10-29,9,111,returned,2023-12-24,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-31550,10,237,11,2023-05-05,10,9,placed,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-63862,9,377,14,2022-07-11,9,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-34554,6,406,4,2023-08-16,5,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-68650,5,296,4,2023-10-29,9,11,returned,2023-12-03,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-92098,1,248,15,2022-09-10,6,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-71497,12,307,6,2023-01-17,9,12,placed,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-32953,1,329,5,2022-01-03,5,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-67845,18,216,4,2023-12-05,1,33,returned,2023-12-13,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-14568,9,171,4,2023-04-19,7,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-67804,12,191,7,2023-04-03,8,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-18468,1,146,3,2023-03-19,9,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-78211,10,247,7,2023-03-17,6,120,returned,2023-10-31,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-68419,14,144,2,2022-10-08,4,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-92066,3,486,1,2022-05-12,9,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-41674,13,445,6,2023-02-03,6,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-96209,2,499,5,2023-07-27,7,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-65293,8,113,9,2022-07-13,7,11,returned,2023-10-07,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-55622,8,367,8,2022-08-27,7,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-51116,17,307,8,2022-10-11,1,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-58148,17,430,15,2023-01-12,7,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-70521,14,388,14,2023-11-19,3,42,placed,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-65104,1,488,10,2023-02-13,1,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-32678,18,116,7,2023-02-13,10,123,returned,2023-05-26,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-49383,13,428,5,2022-07-06,8,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-91752,6,156,8,2022-01-12,9,42,returned,2022-04-13,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-82870,10,313,7,2022-05-15,8,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-47983,6,266,11,2023-07-11,8,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-72134,7,428,7,2023-11-01,9,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-75496,15,206,5,2023-09-22,1,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-35892,20,149,1,2022-04-19,1,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-26053,20,500,13,2022-08-02,2,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-92352,3,443,4,2022-03-30,6,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-83442,16,396,6,2023-12-04,4,22,returned,2023-12-29,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-70173,10,468,14,2022-08-05,4,7,returned,2023-03-01,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-67273,18,291,13,2022-04-27,2,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-18195,7,238,12,2023-10-12,1,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-43463,16,258,11,2022-02-06,4,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-91854,14,276,2,2023-01-30,5,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-94242,5,270,13,2022-02-01,7,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-83520,9,162,11,2023-09-19,5,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-98247,15,333,12,2023-11-02,7,3,placed,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-96726,6,422,2,2022-06-20,8,120,returned,2022-09-07,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-84001,4,358,6,2023-02-25,9,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-40542,2,416,6,2022-05-28,9,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-70232,17,177,7,2022-02-19,1,3,returned,2022-12-22,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-63443,8,405,2,2023-09-18,2,4,returned,2023-10-12,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-39860,13,336,4,2022-10-04,3,3,returned,2023-08-10,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-85261,1,392,11,2023-10-16,9,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-48165,1,481,10,2023-10-29,10,5,returned,2023-12-25,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-45814,2,356,2,2023-12-01,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-26851,5,486,14,2022-01-25,10,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-11758,17,374,2,2023-01-09,1,4,returned,2023-11-07,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-36703,3,147,14,2022-03-28,1,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-11287,2,396,13,2022-02-16,9,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-70368,16,141,2,2022-01-08,10,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-88995,1,106,4,2023-05-16,3,22,returned,2023-09-24,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-70252,20,109,5,2022-02-17,10,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-96834,20,478,7,2023-09-13,1,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-54290,17,376,1,2023-08-31,3,120,shipped,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-96610,5,163,8,2022-12-17,4,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-91305,17,223,5,2023-06-20,10,19,shipped,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-88908,7,320,3,2022-07-09,2,111,returned,2023-09-11,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-70117,16,303,11,2023-10-18,9,3,returned,2023-10-29,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-76526,2,368,15,2023-01-30,8,14,returned,2023-07-27,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-55949,13,397,10,2022-11-07,6,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-47034,6,479,7,2022-09-13,8,42,returned,2023-06-23,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-61370,10,266,6,2023-07-28,10,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-50047,14,107,6,2022-12-11,4,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-54598,14,275,10,2023-05-07,2,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-71105,2,183,9,2022-11-23,5,11,shipped,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-71247,15,262,7,2022-05-10,8,42,shipped,,DaburLal,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-45646,12,306,14,2023-03-25,4,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-63735,13,280,1,2023-08-18,4,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-58795,1,302,5,2023-11-21,6,15,returned,2023-11-26,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-45140,13,409,1,2023-10-09,3,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-98596,18,257,7,2022-10-05,2,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-14647,18,127,15,2023-02-24,2,14,returned,2023-04-06,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-99260,2,261,2,2022-04-05,8,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-14174,9,298,2,2023-10-01,10,136,placed,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-71667,19,361,13,2023-03-21,2,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-54249,11,478,10,2022-02-21,9,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-80597,17,140,15,2023-05-26,3,9,returned,2023-12-13,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-26915,13,262,12,2023-02-12,6,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-24164,17,189,3,2023-07-14,5,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-56691,7,350,8,2022-11-15,9,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-94737,16,274,10,2022-03-09,8,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-38076,9,464,14,2023-07-23,2,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-60838,8,240,10,2023-02-08,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-50688,15,346,14,2022-02-21,4,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-66969,2,125,12,2023-10-02,6,22,returned,2023-10-31,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-26719,14,220,3,2022-12-04,3,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-18772,6,276,13,2022-07-19,6,7,shipped,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-76157,12,403,1,2023-04-03,1,321,returned,2023-09-03,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-62167,15,134,14,2023-03-27,9,14,returned,2023-04-07,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-18119,1,344,14,2022-06-15,2,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-41481,2,301,3,2023-12-03,10,5,shipped,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-85033,3,467,5,2023-04-10,1,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-81862,2,352,13,2023-04-28,9,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-90807,6,261,1,2023-05-10,9,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-45521,16,139,3,2023-07-12,8,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-41956,3,251,14,2022-05-11,8,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-55881,5,274,12,2023-12-02,9,3,returned,2023-12-30,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-13328,7,212,15,2023-01-30,7,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-69723,7,345,9,2023-06-26,7,14,returned,2023-10-24,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-86033,3,409,6,2023-01-10,1,7,returned,2023-09-22,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-66865,5,235,14,2022-03-21,4,6,returned,2022-08-11,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-97376,14,401,15,2023-11-30,1,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-41207,4,276,3,2022-10-07,9,42,returned,2022-12-19,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-95826,3,459,7,2023-09-02,4,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-22012,9,395,2,2023-05-03,10,6,returned,2023-11-07,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-75868,4,110,4,2022-07-18,2,12,returned,2023-01-30,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-97479,3,280,4,2022-01-05,2,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-27538,8,449,14,2023-10-11,3,11,returned,2023-12-26,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-81570,2,257,11,2022-11-01,2,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-89731,8,155,8,2022-11-17,6,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-83163,10,190,10,2023-07-17,6,3,returned,2023-11-04,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-79026,14,134,4,2022-06-19,5,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-63655,9,440,10,2022-04-19,10,5,shipped,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-20046,15,241,6,2023-07-31,3,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-18053,19,494,5,2022-01-10,4,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-95221,3,356,1,2023-02-04,2,9,shipped,,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-19052,13,125,14,2023-01-19,1,43,returned,2023-11-11,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-75107,12,354,10,2022-11-06,1,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-71830,17,424,12,2023-01-02,3,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-24686,3,492,5,2022-05-31,8,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-20646,11,300,9,2023-10-20,3,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-82562,20,151,14,2023-11-22,5,22,returned,2023-12-01,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-33079,20,485,11,2022-10-26,10,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-95602,6,417,15,2022-02-01,10,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-52464,13,302,6,2023-05-06,3,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-63579,8,113,2,2022-07-04,1,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-99103,4,207,7,2022-09-25,1,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-48383,15,215,10,2023-11-15,5,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-41383,19,315,14,2022-10-12,1,321,returned,2023-10-04,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-28998,17,174,14,2023-12-19,3,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-54002,7,485,12,2023-01-06,7,123,returned,2023-03-05,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-49159,7,212,5,2022-10-13,10,3,returned,2023-03-12,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-11247,14,344,10,2022-03-17,1,4,shipped,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-21713,16,230,9,2022-04-06,8,6,placed,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-46059,9,244,1,2023-11-08,3,11,returned,2023-11-18,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-72803,6,463,8,2022-09-26,1,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-99115,14,188,4,2022-04-05,1,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-81257,9,243,2,2022-05-24,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-23075,9,368,4,2023-08-29,4,11,shipped,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-39792,18,435,9,2023-06-13,5,58,shipped,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-62270,7,177,8,2022-07-17,1,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-61398,8,155,2,2022-09-16,8,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-51879,10,217,15,2023-07-01,7,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-48154,4,307,15,2023-03-22,10,7,shipped,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-57814,1,214,15,2023-06-30,4,4,returned,2023-12-29,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-63817,17,222,15,2022-09-27,4,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-43934,6,468,12,2023-10-10,2,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-84757,12,360,7,2022-04-27,3,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-46204,6,178,1,2023-10-03,1,120,returned,2023-11-10,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-27203,3,171,8,2022-03-09,4,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-82198,1,500,15,2022-09-30,8,3,returned,2023-05-28,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-12166,7,128,8,2022-10-28,3,6,shipped,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-54839,2,107,10,2022-09-11,1,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-73594,19,322,1,2023-07-08,2,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-72500,2,111,14,2022-05-23,9,14,returned,2023-11-08,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-60991,7,268,13,2023-03-05,1,12,shipped,,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-54575,9,160,13,2022-02-13,5,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-47936,12,326,6,2023-05-07,6,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-94629,8,170,14,2023-11-17,10,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-52747,16,256,12,2022-07-20,2,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-29578,15,167,13,2022-03-18,5,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-62989,9,312,5,2023-01-28,8,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-19133,16,313,4,2023-11-08,1,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-76908,19,430,5,2023-09-28,6,6,returned,2023-12-10,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-29853,20,126,12,2022-12-03,4,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-34171,12,183,5,2022-07-05,6,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-59290,14,341,8,2023-10-23,10,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-36489,17,434,13,2022-04-25,4,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-87681,7,210,14,2022-10-20,7,111,shipped,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-96006,20,343,9,2023-09-27,6,111,returned,2023-10-09,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-79894,6,117,7,2022-09-03,3,3,shipped,,ParleG,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-17971,7,287,12,2022-06-11,5,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-54669,6,483,11,2022-07-15,1,3,returned,2023-03-05,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-76084,20,298,3,2022-12-13,1,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-72908,6,319,10,2023-10-21,2,7,placed,,50-50,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-71675,16,230,14,2022-05-22,6,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-95427,18,172,3,2023-07-09,1,120,returned,2023-11-19,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-23438,20,349,10,2023-04-19,5,4,placed,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-15199,20,220,2,2023-11-13,10,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-89993,17,203,5,2023-09-12,6,7,returned,2023-12-08,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-98111,14,112,6,2022-04-24,9,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-31205,7,251,10,2022-04-24,10,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-14316,5,470,11,2022-03-04,2,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-84764,16,152,7,2023-12-26,1,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-46461,18,168,8,2022-05-19,8,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-59144,17,322,9,2023-08-12,3,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-32582,6,276,2,2022-09-19,2,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-75648,19,323,5,2022-04-20,4,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-83034,17,458,15,2022-01-21,1,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-14474,14,483,14,2023-07-04,4,321,returned,2023-10-18,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-99829,10,249,13,2023-06-02,6,11,placed,,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-96436,9,496,15,2022-07-03,3,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-29566,16,495,12,2023-05-29,1,22,shipped,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-55826,17,156,5,2023-03-24,1,321,placed,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-29001,16,463,13,2022-02-02,10,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-92431,16,201,7,2023-12-09,6,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-58353,13,118,14,2022-12-24,6,14,shipped,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-53956,4,399,2,2023-07-26,2,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-20722,10,292,3,2022-08-04,3,33,shipped,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-39522,6,478,5,2022-11-13,10,7,returned,2022-12-09,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-93672,14,105,3,2022-05-04,10,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-71430,10,264,6,2023-09-22,10,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-32424,15,288,10,2022-09-17,3,3,placed,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-87951,18,411,4,2022-11-14,10,4,returned,2023-09-25,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-78461,18,371,8,2023-10-23,3,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-73156,2,258,9,2023-04-04,3,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-36220,6,380,7,2022-01-06,4,13,shipped,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-34679,10,310,14,2022-04-26,9,7,placed,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-10305,8,266,6,2022-11-04,8,19,returned,2023-03-20,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-29264,14,252,12,2023-01-23,7,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-69093,8,199,15,2023-10-26,5,42,returned,2023-12-30,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-44953,14,390,12,2023-03-29,8,120,placed,,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-59520,10,302,7,2022-08-11,10,120,returned,2023-08-11,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-31842,4,122,13,2022-03-08,6,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-35849,6,392,10,2022-09-09,9,123,returned,2022-12-06,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-74130,11,447,10,2022-06-24,6,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-61659,16,492,1,2022-10-05,6,58,placed,,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-22536,10,295,9,2023-11-20,4,8,shipped,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-24073,13,239,15,2023-07-17,9,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-38257,5,424,8,2023-12-09,7,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-17229,12,139,13,2023-04-27,3,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-72255,19,193,12,2022-10-03,8,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-95679,3,343,7,2023-08-08,3,120,returned,2023-08-13,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-57833,8,359,12,2023-10-09,10,19,placed,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-11838,19,269,6,2022-04-04,9,43,returned,2022-09-15,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-57803,2,327,3,2023-08-26,7,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-30268,12,452,6,2023-02-10,3,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-35228,15,410,10,2023-04-08,1,43,returned,2023-08-22,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-42544,16,469,13,2023-08-30,7,11,returned,2023-12-12,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-20394,3,132,6,2022-01-18,9,3,shipped,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-26648,18,139,6,2022-05-15,5,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-15113,10,308,7,2022-05-28,6,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-66574,6,458,7,2022-03-02,10,9,returned,2023-11-04,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-43753,19,193,7,2022-02-26,3,123,shipped,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-30243,10,359,12,2022-09-30,7,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-57910,5,456,13,2022-03-10,3,13,returned,2023-01-02,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-43827,2,339,14,2022-12-21,2,58,returned,2023-03-10,Crest,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-82730,17,426,10,2023-01-13,5,42,placed,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-78414,3,323,13,2023-12-16,9,15,shipped,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-14045,19,286,11,2023-07-21,5,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-74306,1,341,9,2023-11-27,7,9,returned,2023-12-21,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-42814,15,238,11,2022-07-23,1,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-71582,12,304,6,2023-06-06,2,120,returned,2023-11-01,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-41669,9,190,2,2022-07-24,3,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-66027,5,415,2,2022-04-05,9,4,returned,2022-10-17,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-69924,20,462,13,2023-01-11,1,3,returned,2023-05-23,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-79333,11,212,13,2022-07-19,5,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-65675,6,110,9,2022-10-25,9,123,placed,,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-21551,10,343,14,2022-01-08,6,19,placed,,HidenSeek,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-78679,7,211,14,2023-07-09,3,165,placed,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-42017,14,320,8,2023-08-29,8,5,shipped,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-77985,18,292,9,2023-01-09,1,6,placed,,Cinthol,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-73422,9,133,10,2022-06-02,10,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-73700,2,232,10,2022-09-14,4,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-56656,3,121,1,2022-09-24,6,6,returned,2023-03-01,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-36332,14,329,6,2023-09-08,6,111,returned,2023-12-12,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-64365,17,187,8,2022-12-10,5,6,returned,2023-05-30,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-25801,13,224,4,2023-05-17,7,321,shipped,,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-69316,15,340,4,2023-02-16,6,33,placed,,Pepsudent,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-41084,8,225,9,2023-10-12,5,42,returned,2023-12-22,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-36323,14,232,2,2023-01-26,9,9,placed,,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-45711,13,104,8,2023-03-06,1,22,placed,,Colgate,Groceries,Toothpaste,name,email,shippingaddress,billingaddress,Best Toothpaste pvt ltd,333.456.7890,3.4
-53371,5,340,12,2023-04-14,3,5,shipped,,Lux,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-16182,20,350,4,2022-10-11,4,12,returned,2023-05-01,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-61622,14,377,7,2023-04-25,4,3,returned,2023-12-06,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-24298,15,346,12,2023-05-24,3,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-87480,18,105,6,2023-06-23,5,321,returned,2023-09-25,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-55322,1,119,2,2022-12-16,4,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-55169,3,357,1,2022-12-19,9,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-30917,14,366,15,2023-10-21,8,3,shipped,,Spinech,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-86230,11,423,1,2023-09-19,4,321,returned,2023-11-14,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-15722,20,366,11,2023-06-01,8,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-46581,12,333,4,2022-02-28,5,42,shipped,,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-22625,9,357,5,2023-04-14,7,3,placed,,Asparagus,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-49104,3,487,13,2023-12-16,7,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-82722,11,288,14,2022-06-29,8,123,returned,2023-04-22,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-68725,6,231,2,2022-10-02,4,4,returned,2023-10-07,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-90642,7,107,14,2022-11-09,4,4,placed,,Methi,Vegetable,Leafy,name,email,shippingaddress,billingaddress,Green World,123.111.7890,1.1
-43749,19,166,11,2022-06-04,5,9,returned,2023-05-18,Yummy Rock Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-28215,18,295,5,2022-12-04,2,321,returned,2023-12-17,RaspBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-21131,18,116,8,2022-02-23,7,43,returned,2023-03-29,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-58569,16,199,4,2022-10-18,7,43,shipped,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-70287,10,111,8,2022-01-07,6,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-46008,15,195,9,2023-12-30,1,111,returned,2023-12-30,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-42017,18,328,3,2022-03-14,8,4,returned,2023-11-02,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-15510,12,219,11,2023-01-24,7,11,placed,,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-10028,5,349,6,2022-11-28,2,8,placed,,Pears,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-12247,1,222,8,2022-08-31,8,13,placed,,shallot,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-51426,3,162,15,2023-03-29,4,14,returned,2023-08-15,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-57059,18,297,4,2022-01-16,2,12,returned,2023-08-08,Great Table Salt,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-96692,17,402,14,2023-04-03,7,136,shipped,,Almond,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-61949,20,392,12,2022-07-29,6,11,returned,2022-10-11,Horlics,Groceries,Biscuits,name,email,shippingaddress,billingaddress,Yummy Biscuits Co,444.456.7890,4.3
-63496,1,407,8,2023-06-27,3,43,placed,,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-28479,18,126,5,2023-02-11,9,9,returned,2023-03-04,Dove,Groceries,Soap,name,email,shippingaddress,billingaddress,United Soap company,234.456.1234,3.9
-25372,2,376,11,2022-12-27,6,6,placed,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-99983,10,265,5,2022-01-05,8,6,shipped,,Iodized for Health,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-71488,14,451,7,2023-01-13,2,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-74602,16,489,10,2023-08-25,9,165,shipped,,Cashew,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-61630,12,209,14,2023-05-27,1,111,placed,,StrawBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-52255,2,191,10,2023-06-21,2,11,returned,2023-08-01,lime,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-45950,13,163,11,2023-03-20,6,42,returned,2023-07-19,Orange,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-84662,20,445,15,2023-12-22,6,7,shipped,,Onion,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
-83064,8,278,8,2022-10-01,3,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-53465,19,331,10,2023-10-30,4,14,returned,2023-11-23,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-68714,13,201,9,2023-11-19,4,120,returned,2023-12-16,Apricot,Fruits,Nuts,name,email,shippingaddress,billingaddress,Hard Nut Unlimited,123.456.3333,4.5
-29675,4,297,15,2023-10-16,1,15,placed,,Free Flow Pizza,Groceries,Salt,name,email,shippingaddress,billingaddress,Salt Company X,123.456.7890,4.9
-51249,7,146,13,2022-07-05,9,5,placed,,Celery,Vegetable,Stem,name,email,shippingaddress,billingaddress,Solid Stem inc,123.000.8888,2.1
-91623,11,334,4,2023-04-03,2,14,placed,,garlic,Vegetable,Allium,name,email,shippingaddress,billingaddress,Allium helium pte ltd,123.456.6666,3.6
-66834,3,339,7,2023-03-09,3,123,returned,2023-05-20,BlueBerries,Fruits,Berries,name,email,shippingaddress,billingaddress,Mr Berry Straw,123.555.3333,3.5
-28622,12,398,4,2022-04-11,2,43,returned,2023-06-16,Mandarin,Fruits,Citrus,name,email,shippingaddress,billingaddress,Health fruits,123.456.3333,4.6
-85574,13,464,5,2023-02-13,1,4,shipped,,Potato,Vegetable,Root,name,email,shippingaddress,billingaddress,Ground Corporations,555.456.7890,4.1
+orderid,productid,customerid,vendorid,sale_date,quantitysold,productsellingprice,totalsale,orderstatus,returndate,productname,category,subcategory,customername,customeremail,shippingaddress,billingaddress,vendorname,vendorphone,vendorrating
+49234,11,115,2,2023-08-21,8,10,80,placed,,Pears,Groceries,Soap,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,United Soap company,234.456.1234,3.9
+82621,19,479,10,2022-04-20,7,8,56,shipped,,50-50,Groceries,Biscuits,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Yummy Biscuits Co,444.456.7890,4.3
+28653,13,431,13,2022-02-26,13,10,130,returned,2023-03-18,shallot,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+96578,4,422,15,2022-03-16,3,1,3,placed,,ParleG,Groceries,Biscuits,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Yummy Biscuits Co,444.456.7890,4.3
+65143,6,182,13,2023-06-11,11,10,110,shipped,,lime,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+25095,20,176,5,2022-10-27,6,5,30,shipped,,Cinthol,Groceries,Soap,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,United Soap company,234.456.1234,3.9
+94022,12,298,3,2023-02-03,33,3,99,shipped,,Pepsudent,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+51015,20,116,3,2022-05-23,42,10,420,shipped,,DaburLal,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+67689,18,397,7,2022-02-24,43,5,215,placed,,Mandarin,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+96269,6,129,8,2023-07-01,14,4,56,shipped,,garlic,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+76597,11,153,14,2023-10-05,42,5,210,shipped,,DaburLal,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+17778,4,152,13,2023-02-04,33,9,297,returned,2023-06-05,Pepsudent,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+54900,19,327,3,2022-03-16,136,7,952,returned,2022-05-31,Almond,Fruits,Nuts,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Hard Nut Unlimited,123.456.3333,4.5
+16582,9,342,7,2023-04-22,4,2,8,placed,,Methi,Vegetable,Leafy,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Green World,123.111.7890,1.1
+26106,1,278,4,2023-08-28,136,1,136,returned,2023-11-16,Almond,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+32356,8,354,8,2023-03-13,5,5,25,placed,,Celery,Vegetable,Stem,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Solid Stem inc,123.000.8888,2.1
+86379,14,179,7,2023-05-14,14,9,126,placed,,garlic,Vegetable,Allium,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Allium helium pte ltd,123.456.6666,3.6
+10271,8,347,3,2022-05-05,9,3,27,returned,2023-09-23,Dove,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+50230,20,402,10,2023-05-06,3,10,30,shipped,,Spinech,Vegetable,Leafy,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Green World,123.111.7890,1.1
+59176,3,363,12,2023-03-13,6,3,18,placed,,Iodized for Health,Groceries,Salt,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Salt Company X,123.456.7890,4.9
+74130,10,489,14,2022-01-19,14,6,84,placed,,garlic,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+89844,17,486,2,2023-04-19,5,9,45,returned,2023-08-09,Celery,Vegetable,Stem,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Solid Stem inc,123.000.8888,2.1
+97443,10,498,8,2022-08-18,4,3,12,shipped,,Potato,Vegetable,Root,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Ground Corporations,555.456.7890,4.1
+90520,6,350,10,2022-11-26,4,3,12,shipped,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+93902,8,472,12,2022-03-20,14,7,98,shipped,,garlic,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+76854,15,365,6,2022-05-17,111,6,666,returned,2023-12-17,StrawBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+34580,3,327,6,2022-12-04,3,1,3,placed,,Spinech,Vegetable,Leafy,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Green World,123.111.7890,1.1
+67544,14,276,9,2022-08-10,7,3,21,shipped,,Onion,Vegetable,Root,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Ground Corporations,555.456.7890,4.1
+51425,1,275,10,2022-09-22,22,8,176,shipped,,Colgate,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+61239,10,416,13,2023-01-11,8,2,16,placed,,Pears,Groceries,Soap,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,United Soap company,234.456.1234,3.9
+11711,12,209,11,2022-10-20,5,2,10,returned,2023-03-21,Celery,Vegetable,Stem,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Solid Stem inc,123.000.8888,2.1
+53913,5,433,3,2022-04-19,7,5,35,shipped,,Onion,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+95130,3,280,12,2023-08-16,9,6,54,returned,2023-10-08,Dove,Groceries,Soap,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,United Soap company,234.456.1234,3.9
+94893,13,473,6,2023-01-30,5,2,10,placed,,Celery,Vegetable,Stem,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Solid Stem inc,123.000.8888,2.1
+33295,1,240,8,2022-03-24,3,3,9,placed,,Asparagus,Vegetable,Stem,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Solid Stem inc,123.000.8888,2.1
+38581,19,345,15,2023-05-05,165,7,1155,returned,2023-12-03,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+41043,20,172,15,2022-02-05,136,9,1224,placed,,Almond,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+71128,12,152,8,2023-06-29,3,8,24,returned,2023-11-30,Spinech,Vegetable,Leafy,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Green World,123.111.7890,1.1
+79908,10,418,11,2022-01-06,43,6,258,returned,2023-10-04,Mandarin,Fruits,Citrus,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Health fruits,123.456.3333,4.6
+30859,17,469,6,2023-12-30,3,8,24,placed,,Spinech,Vegetable,Leafy,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Green World,123.111.7890,1.1
+18364,14,292,7,2023-08-17,42,9,378,returned,2023-12-08,Orange,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+30546,19,335,3,2022-04-26,4,1,4,placed,,Potato,Vegetable,Root,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Ground Corporations,555.456.7890,4.1
+38721,17,178,13,2022-12-11,6,1,6,shipped,,Cinthol,Groceries,Soap,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,United Soap company,234.456.1234,3.9
+46295,10,308,13,2023-03-26,5,1,5,placed,,Celery,Vegetable,Stem,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Solid Stem inc,123.000.8888,2.1
+19812,1,482,2,2022-03-10,43,6,258,returned,2023-02-22,Mandarin,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+14234,19,340,9,2023-08-16,3,8,24,returned,2023-10-31,Spinech,Vegetable,Leafy,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Green World,123.111.7890,1.1
+39327,20,243,7,2023-09-25,5,4,20,returned,2023-09-25,Lux,Groceries,Soap,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,United Soap company,234.456.1234,3.9
+53909,7,287,1,2022-10-02,13,3,39,returned,2023-05-27,shallot,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+80337,15,145,15,2023-01-30,123,3,369,shipped,,BlueBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+83861,6,337,9,2023-12-19,321,4,1284,placed,,RaspBerries,Fruits,Berries,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Mr Berry Straw,123.555.3333,3.5
+61882,2,488,15,2023-12-12,111,4,444,shipped,,StrawBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+80677,13,253,3,2023-10-30,9,2,18,shipped,,Yummy Rock Salt,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+91340,19,303,13,2022-06-07,42,4,168,shipped,,Orange,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+90932,2,346,9,2022-03-20,58,4,232,placed,,Crest,Groceries,Toothpaste,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Best Toothpaste pvt ltd,333.456.7890,3.4
+75559,8,408,10,2023-02-19,5,6,30,shipped,,Celery,Vegetable,Stem,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Solid Stem inc,123.000.8888,2.1
+22557,4,423,10,2023-10-15,42,3,126,shipped,,DaburLal,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+13669,9,287,6,2022-09-25,22,2,44,shipped,,Colgate,Groceries,Toothpaste,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Best Toothpaste pvt ltd,333.456.7890,3.4
+74008,17,267,9,2023-07-24,321,5,1605,placed,,RaspBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+88789,8,293,14,2022-07-08,22,10,220,returned,2023-12-07,Colgate,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+82161,10,189,8,2023-11-01,6,4,24,shipped,,Iodized for Health,Groceries,Salt,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Salt Company X,123.456.7890,4.9
+47991,1,348,8,2023-12-20,9,9,81,returned,2023-12-30,Dove,Groceries,Soap,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,United Soap company,234.456.1234,3.9
+28852,3,229,10,2022-06-04,5,1,5,shipped,,Celery,Vegetable,Stem,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Solid Stem inc,123.000.8888,2.1
+14491,20,221,7,2022-10-30,42,4,168,shipped,,Orange,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+15898,15,288,9,2022-11-15,3,2,6,shipped,,Spinech,Vegetable,Leafy,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Green World,123.111.7890,1.1
+78655,10,406,4,2022-06-28,4,5,20,placed,,Potato,Vegetable,Root,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Ground Corporations,555.456.7890,4.1
+43093,19,228,9,2022-10-25,3,10,30,shipped,,Asparagus,Vegetable,Stem,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Solid Stem inc,123.000.8888,2.1
+90858,4,375,5,2023-05-30,42,9,378,returned,2023-10-04,DaburLal,Groceries,Toothpaste,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Best Toothpaste pvt ltd,333.456.7890,3.4
+76126,14,266,8,2022-05-01,3,9,27,placed,,Spinech,Vegetable,Leafy,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Green World,123.111.7890,1.1
+59728,19,143,15,2023-03-13,111,4,444,returned,2023-10-10,StrawBerries,Fruits,Berries,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Mr Berry Straw,123.555.3333,3.5
+14987,1,166,11,2023-10-04,321,2,642,shipped,,RaspBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+88620,6,139,11,2022-09-23,13,10,130,returned,2023-07-22,shallot,Vegetable,Allium,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Allium helium pte ltd,123.456.6666,3.6
+62900,15,356,7,2023-07-21,3,7,21,placed,,Spinech,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+45259,5,449,12,2022-10-16,11,10,110,returned,2023-07-13,Horlics,Groceries,Biscuits,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Yummy Biscuits Co,444.456.7890,4.3
+88607,12,277,3,2022-04-21,42,3,126,returned,2023-07-04,Orange,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+53614,14,124,1,2022-11-16,123,6,738,placed,,BlueBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+63091,8,117,9,2022-02-06,43,1,43,shipped,,Mandarin,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+40190,4,119,4,2023-12-03,11,10,110,placed,,lime,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+81329,2,312,6,2022-10-24,15,7,105,returned,2023-11-04,Free Flow Pizza,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+13769,14,470,10,2022-06-03,120,5,600,shipped,,Apricot,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+58785,6,136,7,2023-04-21,321,8,2568,shipped,,RaspBerries,Fruits,Berries,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Mr Berry Straw,123.555.3333,3.5
+74701,18,335,2,2022-02-04,14,9,126,placed,,garlic,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+47776,6,172,9,2023-01-07,4,7,28,placed,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+98557,17,155,1,2023-07-09,120,8,960,returned,2023-07-12,Apricot,Fruits,Nuts,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Hard Nut Unlimited,123.456.3333,4.5
+86053,6,478,9,2022-08-03,33,6,198,shipped,,Pepsudent,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+96834,5,263,15,2023-05-02,3,1,3,placed,,Spinech,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+42706,15,286,15,2023-02-15,4,7,28,placed,,Potato,Vegetable,Root,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Ground Corporations,555.456.7890,4.1
+90235,4,367,7,2022-06-27,6,9,54,placed,,Iodized for Health,Groceries,Salt,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Salt Company X,123.456.7890,4.9
+91215,5,280,15,2023-12-12,3,10,30,returned,2023-12-12,Spinech,Vegetable,Leafy,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Green World,123.111.7890,1.1
+97062,8,187,9,2023-12-25,42,10,420,placed,,Orange,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+16568,5,100,10,2022-09-30,42,8,336,placed,,Orange,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+99512,15,482,3,2022-05-25,7,1,7,shipped,,50-50,Groceries,Biscuits,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Yummy Biscuits Co,444.456.7890,4.3
+44419,19,320,5,2023-11-24,5,9,45,placed,,Celery,Vegetable,Stem,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Solid Stem inc,123.000.8888,2.1
+52740,8,482,3,2022-06-30,9,7,63,placed,,Yummy Rock Salt,Groceries,Salt,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Salt Company X,123.456.7890,4.9
+91629,7,365,13,2023-01-09,14,6,84,shipped,,garlic,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+50840,18,459,15,2022-06-01,123,6,738,placed,,BlueBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+14051,18,192,7,2023-05-03,6,4,24,returned,2023-12-02,Iodized for Health,Groceries,Salt,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Salt Company X,123.456.7890,4.9
+63484,7,350,7,2023-04-01,3,8,24,returned,2023-12-03,Asparagus,Vegetable,Stem,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Solid Stem inc,123.000.8888,2.1
+57566,9,276,2,2022-06-14,11,1,11,placed,,lime,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+15796,14,226,5,2023-07-04,9,9,81,returned,2023-11-19,Yummy Rock Salt,Groceries,Salt,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Salt Company X,123.456.7890,4.9
+64709,14,136,7,2022-12-14,165,8,1320,returned,2023-10-20,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+23929,17,132,6,2023-03-18,321,6,1926,placed,,RaspBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+83299,18,167,8,2022-03-01,6,3,18,returned,2023-09-10,Iodized for Health,Groceries,Salt,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Salt Company X,123.456.7890,4.9
+67047,9,172,13,2022-01-21,5,5,25,shipped,,Celery,Vegetable,Stem,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Solid Stem inc,123.000.8888,2.1
+21230,15,449,14,2022-11-13,4,6,24,returned,2023-08-28,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+17577,10,449,7,2022-09-15,13,6,78,shipped,,shallot,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+90474,12,361,11,2022-05-09,43,4,172,shipped,,Mandarin,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+16848,2,265,6,2022-05-27,4,9,36,returned,2022-06-28,Potato,Vegetable,Root,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Ground Corporations,555.456.7890,4.1
+71717,10,439,6,2022-01-30,7,6,42,shipped,,Onion,Vegetable,Root,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Ground Corporations,555.456.7890,4.1
+86900,20,288,12,2023-01-23,7,7,49,shipped,,Onion,Vegetable,Root,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Ground Corporations,555.456.7890,4.1
+70797,4,478,3,2022-02-08,3,4,12,returned,2023-09-24,Asparagus,Vegetable,Stem,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Solid Stem inc,123.000.8888,2.1
+59461,2,272,8,2022-12-21,4,1,4,shipped,,Potato,Vegetable,Root,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Ground Corporations,555.456.7890,4.1
+44332,11,258,7,2023-01-10,7,6,42,shipped,,Onion,Vegetable,Root,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Ground Corporations,555.456.7890,4.1
+64974,3,454,3,2022-10-13,9,9,81,placed,,Yummy Rock Salt,Groceries,Salt,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Salt Company X,123.456.7890,4.9
+84205,9,428,3,2023-03-24,120,3,360,returned,2023-08-19,Apricot,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+17435,13,318,12,2022-04-25,8,2,16,returned,2023-05-21,Pears,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+79724,4,479,1,2022-04-02,7,7,49,placed,,Onion,Vegetable,Root,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Ground Corporations,555.456.7890,4.1
+47743,19,279,2,2022-06-17,4,8,32,shipped,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+71957,15,259,3,2022-01-27,9,2,18,placed,,Yummy Rock Salt,Groceries,Salt,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Salt Company X,123.456.7890,4.9
+14164,18,480,14,2022-08-17,11,2,22,shipped,,lime,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+69766,9,154,3,2022-06-21,5,2,10,placed,,Lux,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+94969,2,200,11,2023-01-26,9,1,9,shipped,,Yummy Rock Salt,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+42344,9,372,9,2023-11-25,4,2,8,returned,2023-11-25,Methi,Vegetable,Leafy,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Green World,123.111.7890,1.1
+63792,14,481,14,2023-03-15,123,4,492,placed,,BlueBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+51907,15,436,5,2023-09-22,3,10,30,returned,2023-11-25,Spinech,Vegetable,Leafy,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Green World,123.111.7890,1.1
+65129,8,168,7,2022-12-14,14,5,70,shipped,,garlic,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+89659,1,304,9,2022-11-10,42,6,252,returned,2023-10-12,Orange,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+77508,1,238,7,2023-04-03,136,6,816,returned,2023-04-28,Almond,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+44181,7,379,4,2022-05-31,43,7,301,returned,2023-06-02,Mandarin,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+77713,9,131,13,2022-06-02,5,1,5,placed,,Lux,Groceries,Soap,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,United Soap company,234.456.1234,3.9
+50327,15,477,10,2023-05-03,3,10,30,returned,2023-09-27,Asparagus,Vegetable,Stem,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Solid Stem inc,123.000.8888,2.1
+63163,7,210,9,2022-11-20,111,6,666,shipped,,StrawBerries,Fruits,Berries,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Mr Berry Straw,123.555.3333,3.5
+68546,12,211,11,2022-12-02,6,8,48,placed,,Cinthol,Groceries,Soap,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,United Soap company,234.456.1234,3.9
+48532,4,434,15,2022-11-20,42,5,210,returned,2023-10-02,Orange,Fruits,Citrus,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Health fruits,123.456.3333,4.6
+58915,17,233,13,2022-09-22,7,5,35,shipped,,50-50,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+83397,15,370,14,2023-12-21,136,5,680,returned,2023-12-23,Almond,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+22736,10,333,14,2023-12-14,11,3,33,returned,2023-12-21,lime,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+54124,13,206,4,2022-04-30,111,2,222,placed,,StrawBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+49606,16,127,7,2022-09-03,123,1,123,returned,2023-01-12,BlueBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+42939,4,419,3,2023-03-26,7,7,49,shipped,,Onion,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+67641,20,450,9,2023-09-01,11,6,66,shipped,,lime,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+38158,4,134,9,2022-12-21,6,10,60,placed,,Iodized for Health,Groceries,Salt,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Salt Company X,123.456.7890,4.9
+60719,15,165,9,2022-05-05,165,4,660,placed,,Cashew,Fruits,Nuts,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Hard Nut Unlimited,123.456.3333,4.5
+65243,13,387,9,2022-10-24,5,1,5,shipped,,Celery,Vegetable,Stem,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Solid Stem inc,123.000.8888,2.1
+46979,10,399,4,2022-06-29,4,1,4,returned,2023-03-20,Methi,Vegetable,Leafy,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Green World,123.111.7890,1.1
+43109,17,136,2,2022-12-04,13,1,13,placed,,shallot,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+90392,8,374,14,2023-01-05,11,4,44,returned,2023-09-08,Horlics,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+69482,20,500,8,2022-10-10,3,8,24,shipped,,Spinech,Vegetable,Leafy,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Green World,123.111.7890,1.1
+97132,14,425,8,2022-12-09,9,10,90,returned,2023-11-10,Dove,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+44189,10,490,3,2022-02-27,4,6,24,shipped,,Potato,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+27827,7,264,14,2023-08-15,4,7,28,returned,2023-08-23,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+57207,11,207,9,2022-12-06,13,1,13,returned,2023-07-20,shallot,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+79509,3,450,5,2023-03-11,4,9,36,returned,2023-09-30,Potato,Vegetable,Root,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Ground Corporations,555.456.7890,4.1
+77413,5,375,9,2022-10-08,13,8,104,placed,,shallot,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+24516,11,174,11,2023-05-12,111,3,333,returned,2023-08-22,StrawBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+34239,1,147,12,2022-06-26,4,7,28,shipped,,Potato,Vegetable,Root,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Ground Corporations,555.456.7890,4.1
+24472,12,104,14,2022-07-27,14,8,112,shipped,,garlic,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+71326,10,445,3,2022-07-20,11,6,66,placed,,lime,Fruits,Citrus,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Health fruits,123.456.3333,4.6
+33373,16,201,6,2022-03-15,165,10,1650,returned,2022-08-10,Cashew,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+71401,3,255,11,2023-11-26,58,6,348,shipped,,Crest,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+25506,2,381,9,2022-07-03,14,5,70,returned,2022-07-14,garlic,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+13287,17,291,13,2022-05-18,42,3,126,returned,2022-05-30,Orange,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+95919,19,149,14,2023-10-06,5,5,25,returned,2023-10-11,Celery,Vegetable,Stem,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Solid Stem inc,123.000.8888,2.1
+15187,9,120,10,2022-06-19,165,1,165,placed,,Cashew,Fruits,Nuts,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Hard Nut Unlimited,123.456.3333,4.5
+34517,13,256,11,2022-07-01,7,2,14,placed,,Onion,Vegetable,Root,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Ground Corporations,555.456.7890,4.1
+44967,11,185,2,2023-12-10,4,2,8,placed,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+62593,17,226,9,2022-11-05,22,2,44,returned,2023-12-05,Colgate,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+80563,4,186,6,2022-05-09,4,5,20,returned,2023-09-26,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+18971,15,353,1,2023-10-27,14,4,56,shipped,,garlic,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+39516,7,181,4,2023-07-11,321,10,3210,returned,2023-10-24,RaspBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+33012,16,256,4,2022-01-25,4,2,8,placed,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+38431,19,375,9,2022-01-23,111,2,222,returned,2022-06-24,StrawBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+95797,1,113,8,2023-10-06,123,5,615,shipped,,BlueBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+24798,2,103,3,2022-12-04,13,10,130,returned,2023-04-30,shallot,Vegetable,Allium,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Allium helium pte ltd,123.456.6666,3.6
+65702,19,238,13,2023-04-07,11,6,66,placed,,Horlics,Groceries,Biscuits,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Yummy Biscuits Co,444.456.7890,4.3
+87715,1,306,7,2022-07-21,33,10,330,returned,2023-01-08,Pepsudent,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+60459,10,172,2,2022-10-25,7,2,14,returned,2023-03-22,Onion,Vegetable,Root,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Ground Corporations,555.456.7890,4.1
+65093,18,265,14,2023-05-09,11,5,55,returned,2023-06-01,lime,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+63313,14,369,9,2023-02-24,9,8,72,placed,,Dove,Groceries,Soap,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,United Soap company,234.456.1234,3.9
+58604,6,373,5,2023-11-23,7,8,56,returned,2023-12-25,Onion,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+61333,4,221,15,2022-03-16,111,1,111,placed,,StrawBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+21544,20,249,5,2022-12-11,136,1,136,placed,,Almond,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+13128,20,325,5,2023-05-30,42,4,168,placed,,Orange,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+76832,5,317,13,2022-11-30,14,3,42,shipped,,garlic,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+26170,7,329,10,2023-10-19,120,8,960,shipped,,Apricot,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+30802,6,340,3,2023-11-18,123,1,123,returned,2023-12-17,BlueBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+93566,15,209,2,2023-06-12,136,8,1088,placed,,Almond,Fruits,Nuts,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Hard Nut Unlimited,123.456.3333,4.5
+82339,16,439,5,2023-04-15,136,1,136,shipped,,Almond,Fruits,Nuts,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Hard Nut Unlimited,123.456.3333,4.5
+93840,9,340,12,2023-03-25,15,3,45,shipped,,Free Flow Pizza,Groceries,Salt,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Salt Company X,123.456.7890,4.9
+76783,17,349,1,2022-11-12,4,5,20,shipped,,Methi,Vegetable,Leafy,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Green World,123.111.7890,1.1
+85187,10,424,4,2023-03-27,42,6,252,shipped,,Orange,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+67997,14,389,9,2022-10-17,43,5,215,shipped,,Mandarin,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+50766,20,413,1,2022-05-26,3,9,27,placed,,Asparagus,Vegetable,Stem,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Solid Stem inc,123.000.8888,2.1
+21082,17,292,6,2022-09-14,3,7,21,placed,,ParleG,Groceries,Biscuits,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Yummy Biscuits Co,444.456.7890,4.3
+82551,12,218,15,2023-02-24,42,6,252,placed,,DaburLal,Groceries,Toothpaste,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Best Toothpaste pvt ltd,333.456.7890,3.4
+17763,17,483,8,2022-05-11,58,2,116,returned,2022-09-22,Crest,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+54685,5,288,7,2022-01-05,123,1,123,returned,2023-09-04,BlueBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+94212,12,122,1,2022-04-19,5,1,5,returned,2023-12-18,Lux,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+15716,20,444,10,2023-01-23,42,2,84,placed,,DaburLal,Groceries,Toothpaste,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Best Toothpaste pvt ltd,333.456.7890,3.4
+70365,7,376,14,2023-04-08,123,5,615,placed,,BlueBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+47184,5,349,12,2022-12-11,321,2,642,shipped,,RaspBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+70949,9,363,14,2023-07-18,3,7,21,returned,2023-12-19,Asparagus,Vegetable,Stem,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Solid Stem inc,123.000.8888,2.1
+27312,4,192,9,2022-10-18,9,7,63,shipped,,Dove,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+66753,6,363,3,2022-10-23,15,3,45,shipped,,Free Flow Pizza,Groceries,Salt,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Salt Company X,123.456.7890,4.9
+29059,1,279,1,2023-01-09,165,3,495,returned,2023-10-10,Cashew,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+21983,8,279,12,2022-08-15,19,6,114,returned,2023-02-20,HidenSeek,Groceries,Biscuits,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Yummy Biscuits Co,444.456.7890,4.3
+46001,10,189,14,2023-10-17,7,1,7,returned,2023-12-01,Onion,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+54938,14,376,9,2023-08-05,136,8,1088,shipped,,Almond,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+16266,9,201,12,2022-06-01,12,4,48,shipped,,Great Table Salt,Groceries,Salt,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Salt Company X,123.456.7890,4.9
+28887,11,463,4,2023-07-11,3,9,27,returned,2023-07-13,Asparagus,Vegetable,Stem,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Solid Stem inc,123.000.8888,2.1
+74191,5,379,14,2022-08-20,136,2,272,placed,,Almond,Fruits,Nuts,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Hard Nut Unlimited,123.456.3333,4.5
+65488,18,393,4,2023-11-07,6,10,60,returned,2023-12-21,Cinthol,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+98429,9,318,6,2023-04-06,9,4,36,returned,2023-10-13,Dove,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+28212,17,493,11,2023-12-30,3,9,27,returned,2023-12-30,ParleG,Groceries,Biscuits,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Yummy Biscuits Co,444.456.7890,4.3
+79280,13,295,4,2022-07-15,8,5,40,shipped,,Pears,Groceries,Soap,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,United Soap company,234.456.1234,3.9
+98665,16,364,2,2022-08-11,4,5,20,placed,,Potato,Vegetable,Root,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Ground Corporations,555.456.7890,4.1
+16821,14,361,14,2022-11-27,22,5,110,shipped,,Colgate,Groceries,Toothpaste,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Best Toothpaste pvt ltd,333.456.7890,3.4
+15446,4,480,11,2022-12-01,3,3,9,shipped,,Asparagus,Vegetable,Stem,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Solid Stem inc,123.000.8888,2.1
+12600,18,204,2,2023-10-19,42,6,252,shipped,,Orange,Fruits,Citrus,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Health fruits,123.456.3333,4.6
+95178,12,246,2,2023-12-04,43,6,258,shipped,,Mandarin,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+89397,2,117,6,2022-08-07,58,4,232,returned,2023-05-21,Crest,Groceries,Toothpaste,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Best Toothpaste pvt ltd,333.456.7890,3.4
+51135,13,204,8,2023-06-05,14,6,84,shipped,,garlic,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+29053,1,433,6,2022-03-23,6,8,48,returned,2023-06-15,Cinthol,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+84225,6,417,2,2022-05-20,136,2,272,returned,2022-07-01,Almond,Fruits,Nuts,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Hard Nut Unlimited,123.456.3333,4.5
+22994,14,293,3,2022-11-05,120,5,600,returned,2023-01-05,Apricot,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+20419,15,295,8,2023-03-06,321,1,321,shipped,,RaspBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+11743,11,480,10,2022-11-16,3,10,30,placed,,Asparagus,Vegetable,Stem,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Solid Stem inc,123.000.8888,2.1
+32838,15,120,3,2022-03-17,111,4,444,placed,,StrawBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+71640,8,240,13,2023-10-12,165,1,165,returned,2023-12-20,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+48249,12,318,11,2023-05-24,136,3,408,returned,2023-09-17,Almond,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+20821,6,173,7,2022-02-19,3,2,6,returned,2023-11-15,Spinech,Vegetable,Leafy,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Green World,123.111.7890,1.1
+45938,14,332,12,2023-08-31,5,6,30,returned,2023-11-29,Lux,Groceries,Soap,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,United Soap company,234.456.1234,3.9
+96507,2,393,5,2023-07-03,136,4,544,placed,,Almond,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+92487,18,259,13,2022-11-26,165,3,495,placed,,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+24224,12,183,15,2022-08-29,42,6,252,returned,2023-02-07,DaburLal,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+80309,13,412,13,2022-03-09,3,2,6,returned,2023-06-23,Asparagus,Vegetable,Stem,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Solid Stem inc,123.000.8888,2.1
+46268,14,225,13,2022-10-24,165,9,1485,shipped,,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+97856,5,405,4,2022-05-24,9,4,36,returned,2023-09-18,Yummy Rock Salt,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+90230,2,368,1,2023-07-28,8,4,32,shipped,,Pears,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+22517,8,191,2,2022-06-07,13,9,117,placed,,shallot,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+84518,12,498,14,2022-04-18,4,6,24,placed,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+58576,14,252,4,2023-07-09,13,10,130,shipped,,shallot,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+55167,13,250,3,2023-06-09,58,1,58,placed,,Crest,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+48743,18,370,3,2023-11-02,111,5,555,returned,2023-11-21,StrawBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+99451,13,127,7,2023-12-07,4,7,28,returned,2023-12-25,Methi,Vegetable,Leafy,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Green World,123.111.7890,1.1
+32427,1,456,10,2022-04-29,123,8,984,placed,,BlueBerries,Fruits,Berries,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Mr Berry Straw,123.555.3333,3.5
+66916,18,369,3,2023-05-12,165,1,165,returned,2023-06-30,Cashew,Fruits,Nuts,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Hard Nut Unlimited,123.456.3333,4.5
+81499,20,182,4,2022-04-20,9,9,81,returned,2023-01-18,Dove,Groceries,Soap,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,United Soap company,234.456.1234,3.9
+99632,15,383,1,2022-06-26,7,10,70,returned,2022-12-30,50-50,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+34694,4,208,11,2022-05-20,4,2,8,returned,2023-01-22,Potato,Vegetable,Root,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Ground Corporations,555.456.7890,4.1
+49087,17,273,4,2023-12-21,11,1,11,shipped,,lime,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+41661,9,422,1,2022-02-24,3,7,21,shipped,,ParleG,Groceries,Biscuits,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Yummy Biscuits Co,444.456.7890,4.3
+13790,7,354,10,2022-11-03,15,4,60,placed,,Free Flow Pizza,Groceries,Salt,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Salt Company X,123.456.7890,4.9
+31085,11,299,6,2023-03-31,123,8,984,placed,,BlueBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+89026,7,368,14,2023-06-28,12,1,12,placed,,Great Table Salt,Groceries,Salt,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Salt Company X,123.456.7890,4.9
+64635,16,378,14,2023-05-25,123,4,492,returned,2023-10-03,BlueBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+96974,1,190,8,2022-11-07,321,4,1284,returned,2023-06-20,RaspBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+50404,13,386,5,2022-07-23,15,9,135,placed,,Free Flow Pizza,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+31540,16,401,3,2023-07-17,8,9,72,returned,2023-07-30,Pears,Groceries,Soap,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,United Soap company,234.456.1234,3.9
+88627,3,497,14,2022-08-04,136,6,816,shipped,,Almond,Fruits,Nuts,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Hard Nut Unlimited,123.456.3333,4.5
+99687,7,346,8,2023-06-17,11,4,44,shipped,,lime,Fruits,Citrus,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Health fruits,123.456.3333,4.6
+78110,9,105,14,2023-03-03,13,3,39,placed,,shallot,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+32617,1,470,2,2023-10-02,33,4,132,placed,,Pepsudent,Groceries,Toothpaste,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Best Toothpaste pvt ltd,333.456.7890,3.4
+62007,5,358,4,2023-02-11,12,10,120,shipped,,Great Table Salt,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+78274,14,323,5,2022-07-25,19,10,190,shipped,,HidenSeek,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+77116,4,360,12,2023-10-06,9,4,36,placed,,Yummy Rock Salt,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+81066,13,399,12,2022-12-13,15,1,15,returned,2023-09-20,Free Flow Pizza,Groceries,Salt,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Salt Company X,123.456.7890,4.9
+42062,4,263,8,2022-02-12,43,6,258,returned,2023-10-01,Mandarin,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+28333,11,406,11,2022-01-13,42,7,294,placed,,Orange,Fruits,Citrus,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Health fruits,123.456.3333,4.6
+32894,8,310,3,2023-04-27,321,3,963,shipped,,RaspBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+62663,12,430,6,2023-05-16,13,10,130,returned,2023-08-11,shallot,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+14770,12,358,4,2022-03-28,11,10,110,returned,2022-05-29,lime,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+64924,14,319,1,2022-11-25,19,2,38,placed,,HidenSeek,Groceries,Biscuits,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Yummy Biscuits Co,444.456.7890,4.3
+93575,1,389,3,2022-11-07,3,9,27,shipped,,Asparagus,Vegetable,Stem,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Solid Stem inc,123.000.8888,2.1
+14761,17,361,15,2023-12-24,165,8,1320,shipped,,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+87002,19,176,6,2022-07-05,7,7,49,placed,,Onion,Vegetable,Root,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Ground Corporations,555.456.7890,4.1
+43951,5,272,12,2023-11-22,9,3,27,placed,,Dove,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+16613,5,349,1,2022-06-09,136,10,1360,returned,2023-09-07,Almond,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+30300,5,265,12,2022-12-03,7,9,63,shipped,,Onion,Vegetable,Root,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Ground Corporations,555.456.7890,4.1
+99090,16,328,2,2022-01-19,5,3,15,returned,2022-10-27,Celery,Vegetable,Stem,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Solid Stem inc,123.000.8888,2.1
+98434,4,175,14,2022-12-02,3,7,21,placed,,ParleG,Groceries,Biscuits,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Yummy Biscuits Co,444.456.7890,4.3
+60031,11,309,9,2023-01-31,7,6,42,placed,,50-50,Groceries,Biscuits,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Yummy Biscuits Co,444.456.7890,4.3
+16623,18,223,2,2023-11-04,42,9,378,returned,2023-12-24,Orange,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+12970,4,386,15,2023-09-27,3,1,3,returned,2023-10-15,Asparagus,Vegetable,Stem,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Solid Stem inc,123.000.8888,2.1
+36161,6,305,3,2023-02-12,120,1,120,placed,,Apricot,Fruits,Nuts,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Hard Nut Unlimited,123.456.3333,4.5
+45739,16,101,14,2022-03-11,33,6,198,returned,2022-06-24,Pepsudent,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+56241,7,234,1,2022-02-02,4,7,28,shipped,,Potato,Vegetable,Root,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Ground Corporations,555.456.7890,4.1
+24212,3,340,1,2023-09-23,13,6,78,placed,,shallot,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+36487,4,420,7,2022-01-29,42,3,126,shipped,,DaburLal,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+82690,2,432,13,2023-12-29,4,1,4,returned,2023-12-29,Potato,Vegetable,Root,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Ground Corporations,555.456.7890,4.1
+68767,1,115,10,2022-10-05,13,10,130,shipped,,shallot,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+22402,12,250,10,2022-01-23,4,7,28,placed,,Methi,Vegetable,Leafy,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Green World,123.111.7890,1.1
+44177,19,315,5,2022-12-12,14,3,42,returned,2022-12-22,garlic,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+31018,5,409,15,2023-03-14,4,3,12,returned,2023-12-24,Methi,Vegetable,Leafy,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Green World,123.111.7890,1.1
+50866,16,306,10,2023-07-24,321,8,2568,placed,,RaspBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+27289,7,197,12,2022-10-18,42,4,168,returned,2023-08-15,DaburLal,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+53903,12,128,14,2022-02-11,43,3,129,returned,2022-08-01,Mandarin,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+23411,5,459,12,2022-05-17,6,4,24,shipped,,Cinthol,Groceries,Soap,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,United Soap company,234.456.1234,3.9
+66644,1,307,8,2023-05-05,165,5,825,shipped,,Cashew,Fruits,Nuts,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Hard Nut Unlimited,123.456.3333,4.5
+55474,18,112,10,2022-12-11,8,10,80,shipped,,Pears,Groceries,Soap,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,United Soap company,234.456.1234,3.9
+58834,13,231,13,2022-06-14,7,2,14,shipped,,50-50,Groceries,Biscuits,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Yummy Biscuits Co,444.456.7890,4.3
+98635,9,170,1,2022-03-02,4,7,28,returned,2022-06-27,Potato,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+86751,1,181,1,2022-06-27,136,10,1360,returned,2023-11-27,Almond,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+92948,16,429,9,2022-07-07,123,9,1107,shipped,,BlueBerries,Fruits,Berries,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Mr Berry Straw,123.555.3333,3.5
+39205,10,202,15,2022-03-10,7,5,35,placed,,50-50,Groceries,Biscuits,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Yummy Biscuits Co,444.456.7890,4.3
+77676,13,171,9,2022-10-04,43,1,43,placed,,Mandarin,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+85659,17,462,3,2023-04-24,5,10,50,returned,2023-05-23,Lux,Groceries,Soap,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,United Soap company,234.456.1234,3.9
+14678,5,125,6,2023-06-04,42,2,84,returned,2023-12-08,Orange,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+21719,13,152,13,2023-10-08,58,9,522,returned,2023-11-13,Crest,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+10331,13,332,2,2022-03-26,321,4,1284,returned,2022-06-25,RaspBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+32476,19,201,2,2023-04-06,4,1,4,returned,2023-10-17,Methi,Vegetable,Leafy,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Green World,123.111.7890,1.1
+16320,8,273,2,2023-12-02,8,10,80,placed,,Pears,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+85177,7,144,13,2022-03-16,3,3,9,returned,2023-01-14,Spinech,Vegetable,Leafy,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Green World,123.111.7890,1.1
+93336,19,150,7,2023-02-25,13,3,39,returned,2023-05-03,shallot,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+58868,20,250,9,2022-01-03,12,3,36,returned,2023-01-31,Great Table Salt,Groceries,Salt,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Salt Company X,123.456.7890,4.9
+66549,6,460,1,2022-11-23,6,7,42,shipped,,Cinthol,Groceries,Soap,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,United Soap company,234.456.1234,3.9
+50694,18,228,4,2022-09-08,165,2,330,returned,2023-04-15,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+47235,16,356,1,2022-08-14,120,9,1080,placed,,Apricot,Fruits,Nuts,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Hard Nut Unlimited,123.456.3333,4.5
+18748,14,264,9,2022-04-03,14,7,98,returned,2023-12-02,garlic,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+15261,1,408,12,2022-08-13,11,2,22,returned,2022-10-20,Horlics,Groceries,Biscuits,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Yummy Biscuits Co,444.456.7890,4.3
+90682,17,484,4,2023-02-14,4,10,40,returned,2023-02-28,Potato,Vegetable,Root,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Ground Corporations,555.456.7890,4.1
+71550,6,372,3,2023-08-30,7,9,63,placed,,Onion,Vegetable,Root,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Ground Corporations,555.456.7890,4.1
+51139,7,450,7,2023-12-07,22,8,176,shipped,,Colgate,Groceries,Toothpaste,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Best Toothpaste pvt ltd,333.456.7890,3.4
+31912,1,413,5,2023-04-28,14,4,56,shipped,,garlic,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+36902,6,477,3,2023-08-08,6,3,18,returned,2023-12-10,Iodized for Health,Groceries,Salt,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Salt Company X,123.456.7890,4.9
+90880,17,232,8,2023-11-04,43,8,344,shipped,,Mandarin,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+94071,16,354,11,2023-01-07,321,4,1284,returned,2023-09-09,RaspBerries,Fruits,Berries,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Mr Berry Straw,123.555.3333,3.5
+40814,8,342,14,2023-09-20,165,9,1485,returned,2023-12-20,Cashew,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+38893,7,392,7,2022-07-11,165,8,1320,shipped,,Cashew,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+35402,11,255,13,2022-07-09,9,3,27,returned,2023-04-02,Yummy Rock Salt,Groceries,Salt,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Salt Company X,123.456.7890,4.9
+18914,16,228,15,2023-04-17,136,1,136,shipped,,Almond,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+47587,6,356,7,2022-07-02,11,9,99,shipped,,Horlics,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+61424,7,286,2,2023-06-26,13,1,13,returned,2023-10-04,shallot,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+93754,17,174,5,2022-05-27,123,10,1230,returned,2023-09-14,BlueBerries,Fruits,Berries,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Mr Berry Straw,123.555.3333,3.5
+23004,16,211,9,2022-05-08,11,5,55,placed,,lime,Fruits,Citrus,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Health fruits,123.456.3333,4.6
+87879,12,183,6,2023-01-24,22,2,44,placed,,Colgate,Groceries,Toothpaste,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Best Toothpaste pvt ltd,333.456.7890,3.4
+84152,11,430,11,2023-08-19,123,7,861,shipped,,BlueBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+53084,4,160,11,2022-04-07,43,7,301,shipped,,Mandarin,Fruits,Citrus,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Health fruits,123.456.3333,4.6
+44942,1,351,10,2023-04-10,4,8,32,shipped,,Potato,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+50287,15,394,15,2022-12-26,58,4,232,returned,2023-05-30,Crest,Groceries,Toothpaste,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Best Toothpaste pvt ltd,333.456.7890,3.4
+39414,9,324,7,2023-12-06,42,8,336,returned,2023-12-08,Orange,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+93731,19,494,5,2023-10-29,12,7,84,placed,,Great Table Salt,Groceries,Salt,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Salt Company X,123.456.7890,4.9
+33002,5,342,9,2022-06-29,42,9,378,placed,,Orange,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+50951,18,220,9,2022-07-05,11,6,66,shipped,,Horlics,Groceries,Biscuits,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Yummy Biscuits Co,444.456.7890,4.3
+72321,9,234,13,2023-06-14,14,8,112,returned,2023-08-17,garlic,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+98543,15,300,12,2023-03-15,4,9,36,shipped,,Potato,Vegetable,Root,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Ground Corporations,555.456.7890,4.1
+48451,18,412,9,2022-04-16,11,3,33,placed,,lime,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+73231,3,357,8,2023-05-13,43,9,387,returned,2023-11-28,Mandarin,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+13552,10,498,8,2022-03-28,9,10,90,returned,2023-11-27,Dove,Groceries,Soap,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,United Soap company,234.456.1234,3.9
+30416,5,202,14,2022-09-27,7,7,49,returned,2023-10-12,Onion,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+48189,16,342,14,2022-11-13,7,3,21,placed,,Onion,Vegetable,Root,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Ground Corporations,555.456.7890,4.1
+42337,15,399,2,2023-02-23,43,6,258,returned,2023-10-22,Mandarin,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+40702,4,179,9,2023-10-21,33,1,33,shipped,,Pepsudent,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+35235,20,195,6,2022-07-19,33,4,132,placed,,Pepsudent,Groceries,Toothpaste,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Best Toothpaste pvt ltd,333.456.7890,3.4
+71189,10,426,5,2022-03-06,7,10,70,placed,,Onion,Vegetable,Root,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Ground Corporations,555.456.7890,4.1
+72026,5,175,1,2023-08-19,9,9,81,placed,,Dove,Groceries,Soap,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,United Soap company,234.456.1234,3.9
+29905,8,158,13,2023-05-14,165,3,495,shipped,,Cashew,Fruits,Nuts,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Hard Nut Unlimited,123.456.3333,4.5
+28412,9,117,6,2022-11-14,33,7,231,returned,2023-01-29,Pepsudent,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+69456,6,365,6,2022-08-22,42,5,210,shipped,,DaburLal,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+47648,12,264,9,2023-12-20,7,3,21,shipped,,Onion,Vegetable,Root,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Ground Corporations,555.456.7890,4.1
+43509,6,165,10,2023-05-30,13,2,26,returned,2023-06-06,shallot,Vegetable,Allium,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Allium helium pte ltd,123.456.6666,3.6
+51666,12,373,8,2022-12-12,165,2,330,shipped,,Cashew,Fruits,Nuts,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Hard Nut Unlimited,123.456.3333,4.5
+37076,11,319,1,2022-07-25,4,6,24,returned,2022-09-24,Potato,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+57828,11,121,13,2023-07-19,3,7,21,shipped,,ParleG,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+51567,15,121,11,2022-12-06,12,10,120,placed,,Great Table Salt,Groceries,Salt,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Salt Company X,123.456.7890,4.9
+78506,15,126,4,2022-09-06,4,5,20,shipped,,Methi,Vegetable,Leafy,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Green World,123.111.7890,1.1
+97679,6,161,14,2022-07-10,321,7,2247,shipped,,RaspBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+34828,13,199,12,2023-06-17,4,9,36,placed,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+51185,19,198,7,2022-07-25,19,3,57,shipped,,HidenSeek,Groceries,Biscuits,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Yummy Biscuits Co,444.456.7890,4.3
+99702,4,267,5,2022-04-07,22,3,66,placed,,Colgate,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+13526,10,295,15,2022-04-27,4,6,24,shipped,,Potato,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+54807,9,397,4,2023-05-23,14,2,28,shipped,,garlic,Vegetable,Allium,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Allium helium pte ltd,123.456.6666,3.6
+28546,17,222,6,2022-12-15,136,3,408,shipped,,Almond,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+74401,2,473,2,2022-05-04,3,1,3,returned,2022-11-14,Asparagus,Vegetable,Stem,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Solid Stem inc,123.000.8888,2.1
+16966,2,438,8,2022-11-25,33,9,297,shipped,,Pepsudent,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+42131,14,470,10,2023-01-31,4,4,16,returned,2023-03-13,Potato,Vegetable,Root,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Ground Corporations,555.456.7890,4.1
+71777,7,145,10,2022-12-24,13,9,117,returned,2023-12-08,shallot,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+70414,20,493,3,2023-05-24,3,3,9,placed,,Spinech,Vegetable,Leafy,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Green World,123.111.7890,1.1
+13505,20,373,2,2022-11-03,3,8,24,placed,,Asparagus,Vegetable,Stem,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Solid Stem inc,123.000.8888,2.1
+17128,5,243,11,2023-07-02,11,4,44,placed,,lime,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+10766,3,352,3,2023-08-04,14,4,56,shipped,,garlic,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+83057,12,480,3,2023-08-12,42,3,126,returned,2023-09-10,DaburLal,Groceries,Toothpaste,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Best Toothpaste pvt ltd,333.456.7890,3.4
+47209,11,498,15,2022-08-11,4,5,20,returned,2023-08-02,Potato,Vegetable,Root,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Ground Corporations,555.456.7890,4.1
+97536,1,110,2,2023-03-21,19,7,133,shipped,,HidenSeek,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+39595,16,237,1,2022-10-16,13,4,52,returned,2022-12-08,shallot,Vegetable,Allium,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Allium helium pte ltd,123.456.6666,3.6
+30636,4,108,3,2023-11-27,111,10,1110,placed,,StrawBerries,Fruits,Berries,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Mr Berry Straw,123.555.3333,3.5
+13879,20,340,5,2023-08-07,22,6,132,placed,,Colgate,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+16121,16,316,2,2022-08-18,5,1,5,placed,,Lux,Groceries,Soap,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,United Soap company,234.456.1234,3.9
+84647,3,459,6,2022-12-12,165,2,330,shipped,,Cashew,Fruits,Nuts,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Hard Nut Unlimited,123.456.3333,4.5
+88883,16,186,11,2022-05-17,7,1,7,shipped,,50-50,Groceries,Biscuits,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Yummy Biscuits Co,444.456.7890,4.3
+83224,13,192,9,2022-11-17,43,5,215,returned,2023-07-21,Mandarin,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+83036,16,480,8,2023-06-12,111,9,999,placed,,StrawBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+55583,11,371,12,2022-08-05,9,1,9,returned,2023-11-18,Yummy Rock Salt,Groceries,Salt,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Salt Company X,123.456.7890,4.9
+55492,18,492,8,2022-01-17,4,2,8,returned,2022-07-19,Methi,Vegetable,Leafy,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Green World,123.111.7890,1.1
+16605,18,109,6,2022-09-28,5,6,30,returned,2023-05-11,Lux,Groceries,Soap,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,United Soap company,234.456.1234,3.9
+20531,1,279,8,2022-06-04,321,6,1926,placed,,RaspBerries,Fruits,Berries,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Mr Berry Straw,123.555.3333,3.5
+38793,16,376,14,2023-09-19,123,4,492,shipped,,BlueBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+51192,6,457,1,2023-10-01,13,5,65,returned,2023-10-23,shallot,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+76493,17,378,12,2023-11-24,3,8,24,shipped,,Spinech,Vegetable,Leafy,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Green World,123.111.7890,1.1
+21913,17,153,1,2022-10-19,7,1,7,shipped,,Onion,Vegetable,Root,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Ground Corporations,555.456.7890,4.1
+78336,17,433,15,2022-11-01,15,3,45,returned,2023-03-23,Free Flow Pizza,Groceries,Salt,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Salt Company X,123.456.7890,4.9
+39693,15,178,3,2022-08-11,6,1,6,returned,2023-03-17,Iodized for Health,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+92992,11,393,1,2022-06-06,3,6,18,returned,2023-07-14,Spinech,Vegetable,Leafy,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Green World,123.111.7890,1.1
+40480,10,315,4,2022-01-04,43,5,215,shipped,,Mandarin,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+40333,2,270,6,2022-03-30,43,2,86,shipped,,Mandarin,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+91855,17,182,4,2023-06-24,42,2,84,returned,2023-07-17,Orange,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+82409,6,240,3,2023-05-11,5,7,35,returned,2023-09-08,Celery,Vegetable,Stem,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Solid Stem inc,123.000.8888,2.1
+11106,3,373,14,2022-10-19,6,3,18,placed,,Cinthol,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+45249,18,231,12,2022-05-19,165,10,1650,shipped,,Cashew,Fruits,Nuts,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Hard Nut Unlimited,123.456.3333,4.5
+67862,15,163,5,2022-01-02,123,9,1107,shipped,,BlueBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+26653,18,420,7,2023-08-22,19,10,190,placed,,HidenSeek,Groceries,Biscuits,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Yummy Biscuits Co,444.456.7890,4.3
+90595,16,273,14,2022-01-25,136,7,952,returned,2023-02-20,Almond,Fruits,Nuts,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Hard Nut Unlimited,123.456.3333,4.5
+19093,3,455,13,2023-06-02,43,4,172,shipped,,Mandarin,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+65553,1,190,12,2023-10-13,33,10,330,shipped,,Pepsudent,Groceries,Toothpaste,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Best Toothpaste pvt ltd,333.456.7890,3.4
+51299,19,147,8,2023-12-05,9,6,54,returned,2023-12-29,Yummy Rock Salt,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+11960,2,300,12,2022-10-28,4,4,16,shipped,,Potato,Vegetable,Root,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Ground Corporations,555.456.7890,4.1
+81006,11,343,9,2023-08-25,12,4,48,placed,,Great Table Salt,Groceries,Salt,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Salt Company X,123.456.7890,4.9
+17557,3,308,7,2022-11-25,321,3,963,placed,,RaspBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+26421,5,181,12,2022-06-07,42,6,252,shipped,,Orange,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+64300,20,185,5,2022-05-31,42,1,42,placed,,Orange,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+59259,11,289,7,2023-03-28,11,8,88,returned,2023-08-21,lime,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+49217,4,402,11,2022-03-02,43,2,86,shipped,,Mandarin,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+47235,12,482,10,2023-10-22,11,6,66,returned,2023-12-29,lime,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+76898,15,109,14,2023-09-20,58,7,406,returned,2023-10-02,Crest,Groceries,Toothpaste,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Best Toothpaste pvt ltd,333.456.7890,3.4
+99321,3,130,3,2023-12-20,22,6,132,returned,2023-12-27,Colgate,Groceries,Toothpaste,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Best Toothpaste pvt ltd,333.456.7890,3.4
+55916,1,372,3,2022-07-09,6,5,30,placed,,Cinthol,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+71996,6,287,10,2022-07-08,58,9,522,shipped,,Crest,Groceries,Toothpaste,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Best Toothpaste pvt ltd,333.456.7890,3.4
+15784,9,363,9,2022-12-21,4,8,32,returned,2023-03-30,Methi,Vegetable,Leafy,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Green World,123.111.7890,1.1
+56888,5,354,3,2022-01-28,5,10,50,shipped,,Celery,Vegetable,Stem,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Solid Stem inc,123.000.8888,2.1
+21169,10,489,12,2023-10-05,8,2,16,shipped,,Pears,Groceries,Soap,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,United Soap company,234.456.1234,3.9
+79208,4,268,10,2022-07-09,3,3,9,returned,2023-08-27,Spinech,Vegetable,Leafy,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Green World,123.111.7890,1.1
+11451,7,322,8,2022-09-11,7,4,28,returned,2023-02-12,50-50,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+83685,17,394,2,2023-09-25,4,4,16,returned,2023-12-29,Potato,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+81164,8,222,14,2023-05-03,165,4,660,shipped,,Cashew,Fruits,Nuts,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Hard Nut Unlimited,123.456.3333,4.5
+34155,12,118,15,2022-04-07,43,6,258,shipped,,Mandarin,Fruits,Citrus,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Health fruits,123.456.3333,4.6
+71338,4,186,15,2022-03-05,3,10,30,returned,2023-06-01,ParleG,Groceries,Biscuits,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Yummy Biscuits Co,444.456.7890,4.3
+97143,19,377,4,2022-08-22,123,5,615,returned,2023-01-27,BlueBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+85943,9,370,13,2023-06-28,11,3,33,placed,,lime,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+37228,19,394,11,2022-07-12,12,10,120,shipped,,Great Table Salt,Groceries,Salt,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Salt Company X,123.456.7890,4.9
+42738,20,128,10,2022-01-25,3,3,9,returned,2023-09-30,Asparagus,Vegetable,Stem,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Solid Stem inc,123.000.8888,2.1
+42342,7,473,11,2022-12-10,3,3,9,placed,,Spinech,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+99598,12,166,9,2022-06-09,4,4,16,placed,,Potato,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+31610,16,272,7,2022-03-13,58,2,116,placed,,Crest,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+49850,3,340,9,2022-11-14,43,7,301,returned,2023-04-09,Mandarin,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+16456,6,438,1,2022-09-01,42,4,168,returned,2023-09-03,Orange,Fruits,Citrus,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Health fruits,123.456.3333,4.6
+78632,16,443,11,2023-06-17,5,10,50,shipped,,Lux,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+52895,12,341,14,2022-03-10,33,3,99,returned,2023-07-17,Pepsudent,Groceries,Toothpaste,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Best Toothpaste pvt ltd,333.456.7890,3.4
+60871,17,204,1,2023-08-12,4,3,12,returned,2023-10-13,Methi,Vegetable,Leafy,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Green World,123.111.7890,1.1
+80609,2,449,1,2023-09-30,136,1,136,returned,2023-12-06,Almond,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+20377,9,124,2,2022-10-27,42,10,420,returned,2023-02-19,Orange,Fruits,Citrus,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Health fruits,123.456.3333,4.6
+33967,3,122,10,2022-01-20,4,5,20,placed,,Potato,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+14107,2,273,13,2023-01-29,9,10,90,placed,,Dove,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+84475,16,161,13,2023-05-26,4,7,28,placed,,Potato,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+63704,6,256,15,2023-03-22,13,2,26,returned,2023-09-03,shallot,Vegetable,Allium,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Allium helium pte ltd,123.456.6666,3.6
+76116,13,282,4,2023-01-04,3,6,18,returned,2023-01-16,Spinech,Vegetable,Leafy,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Green World,123.111.7890,1.1
+62546,8,181,1,2022-06-25,6,2,12,shipped,,Cinthol,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+73243,20,259,7,2022-12-09,8,1,8,placed,,Pears,Groceries,Soap,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,United Soap company,234.456.1234,3.9
+82563,8,434,4,2022-04-30,22,3,66,returned,2023-12-02,Colgate,Groceries,Toothpaste,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Best Toothpaste pvt ltd,333.456.7890,3.4
+45434,14,343,6,2022-02-08,7,5,35,placed,,Onion,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+39402,8,462,3,2022-06-20,12,8,96,placed,,Great Table Salt,Groceries,Salt,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Salt Company X,123.456.7890,4.9
+10362,6,172,3,2023-11-20,13,9,117,returned,2023-12-21,shallot,Vegetable,Allium,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Allium helium pte ltd,123.456.6666,3.6
+69214,14,409,3,2022-02-11,3,7,21,shipped,,Asparagus,Vegetable,Stem,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Solid Stem inc,123.000.8888,2.1
+29046,6,222,5,2023-03-10,15,1,15,shipped,,Free Flow Pizza,Groceries,Salt,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Salt Company X,123.456.7890,4.9
+55536,20,333,5,2022-06-09,7,5,35,shipped,,Onion,Vegetable,Root,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Ground Corporations,555.456.7890,4.1
+98772,1,271,13,2022-06-29,165,9,1485,placed,,Cashew,Fruits,Nuts,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Hard Nut Unlimited,123.456.3333,4.5
+35723,13,302,2,2023-03-24,6,1,6,placed,,Iodized for Health,Groceries,Salt,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Salt Company X,123.456.7890,4.9
+24460,10,215,13,2022-03-13,4,6,24,shipped,,Methi,Vegetable,Leafy,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Green World,123.111.7890,1.1
+45759,10,116,1,2023-03-12,3,9,27,placed,,Asparagus,Vegetable,Stem,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Solid Stem inc,123.000.8888,2.1
+41217,19,292,1,2023-11-26,123,6,738,placed,,BlueBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+47973,10,432,11,2023-07-10,11,9,99,returned,2023-12-10,Horlics,Groceries,Biscuits,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Yummy Biscuits Co,444.456.7890,4.3
+62628,6,390,15,2023-04-07,5,9,45,shipped,,Celery,Vegetable,Stem,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Solid Stem inc,123.000.8888,2.1
+60202,16,123,5,2023-12-23,8,3,24,returned,2023-12-24,Pears,Groceries,Soap,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,United Soap company,234.456.1234,3.9
+68383,18,298,15,2023-08-23,13,9,117,shipped,,shallot,Vegetable,Allium,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Allium helium pte ltd,123.456.6666,3.6
+35442,8,245,3,2023-12-19,15,10,150,returned,2023-12-24,Free Flow Pizza,Groceries,Salt,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Salt Company X,123.456.7890,4.9
+97658,19,396,7,2022-12-11,7,5,35,shipped,,Onion,Vegetable,Root,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Ground Corporations,555.456.7890,4.1
+25846,9,403,1,2023-09-29,6,10,60,returned,2023-12-28,Iodized for Health,Groceries,Salt,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Salt Company X,123.456.7890,4.9
+90700,1,190,11,2022-04-12,9,8,72,returned,2022-07-03,Dove,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+64055,17,176,6,2022-04-14,13,3,39,returned,2022-08-04,shallot,Vegetable,Allium,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Allium helium pte ltd,123.456.6666,3.6
+29958,10,234,12,2022-01-31,19,7,133,shipped,,HidenSeek,Groceries,Biscuits,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Yummy Biscuits Co,444.456.7890,4.3
+82675,12,229,1,2022-01-24,3,1,3,placed,,Asparagus,Vegetable,Stem,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Solid Stem inc,123.000.8888,2.1
+25378,2,306,5,2023-04-01,3,4,12,placed,,ParleG,Groceries,Biscuits,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Yummy Biscuits Co,444.456.7890,4.3
+13673,6,315,7,2023-10-22,321,1,321,returned,2023-10-22,RaspBerries,Fruits,Berries,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Mr Berry Straw,123.555.3333,3.5
+42386,11,480,8,2022-02-26,22,5,110,returned,2023-10-04,Colgate,Groceries,Toothpaste,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Best Toothpaste pvt ltd,333.456.7890,3.4
+97342,19,178,6,2023-07-10,11,9,99,returned,2023-07-11,lime,Fruits,Citrus,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Health fruits,123.456.3333,4.6
+40151,6,227,11,2022-12-31,9,7,63,placed,,Yummy Rock Salt,Groceries,Salt,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Salt Company X,123.456.7890,4.9
+42137,18,250,12,2022-11-20,4,5,20,placed,,Potato,Vegetable,Root,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Ground Corporations,555.456.7890,4.1
+84057,9,499,8,2022-03-13,13,5,65,placed,,shallot,Vegetable,Allium,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Allium helium pte ltd,123.456.6666,3.6
+77790,2,193,7,2022-09-14,120,9,1080,returned,2022-12-28,Apricot,Fruits,Nuts,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Hard Nut Unlimited,123.456.3333,4.5
+35391,5,407,4,2022-12-31,4,9,36,shipped,,Methi,Vegetable,Leafy,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Green World,123.111.7890,1.1
+20565,5,335,13,2023-08-02,111,2,222,shipped,,StrawBerries,Fruits,Berries,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Mr Berry Straw,123.555.3333,3.5
+88704,1,412,9,2022-06-24,3,4,12,shipped,,Spinech,Vegetable,Leafy,David Spencer,jonathan76@santos.com,631 Hines Drive Kirstenburgh ND 19567,631 Hines Drive Kirstenburgh ND 19567,Green World,123.111.7890,1.1
+73785,2,185,1,2022-06-17,11,8,88,placed,,lime,Fruits,Citrus,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Health fruits,123.456.3333,4.6
+23120,8,477,5,2022-10-19,8,9,72,placed,,Pears,Groceries,Soap,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,United Soap company,234.456.1234,3.9
+64549,7,471,4,2022-12-28,136,3,408,shipped,,Almond,Fruits,Nuts,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Hard Nut Unlimited,123.456.3333,4.5
+31071,12,253,11,2023-04-09,5,7,35,placed,,Celery,Vegetable,Stem,Bob Smith,bob.smith@email.com,45 Oak Ave. Somecity,45 Oak Ave. Somecity,Solid Stem inc,123.000.8888,2.1
+28948,13,259,11,2022-05-22,13,10,130,placed,,shallot,Vegetable,Allium,Jane Doe,jane.doe@email.com,123 Main St. Anytown,123 Main St. Anytown,Allium helium pte ltd,123.456.6666,3.6
+96355,20,183,5,2023-10-23,5,5,25,returned,2023-10-27,Celery,Vegetable,Stem,Gerald Brown,hudsonmadison@yahoo.com,59013 Gutierrez Lake Jenniferport NE 28083,59013 Gutierrez Lake Jenniferport NE 28083,Solid Stem inc,123.000.8888,2.1
+80478,4,462,11,2022-12-25,123,5,615,returned,2023-03-24,BlueBerries,Fruits,Berries,Jamie Martinez,scottchristina@hotmail.com,7115 Smith Plains Apt. 692 West Danielchester FL 1234,7115 Smith Plains Apt. 692 West Danielchester FL 1234,Mr Berry Straw,123.555.3333,3.5
+10747,18,425,10,2022-10-11,33,9,297,returned,2023-08-11,Pepsudent,Groceries,Toothpaste,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Best Toothpaste pvt ltd,333.456.7890,3.4
+77017,16,120,3,2022-08-27,11,5,55,placed,,Horlics,Groceries,Biscuits,James Knight,dbrown@hotmail.com,91572 Joyce Fort New Ryan AR 18441,91572 Joyce Fort New Ryan AR 18441,Yummy Biscuits Co,444.456.7890,4.3
+69370,18,440,12,2022-01-04,165,7,1155,shipped,,Cashew,Fruits,Nuts,Brandon Bell,hunter88@hotmail.com,437 Lauren Falls Suite 112 Rodriguezport AK 56234,437 Lauren Falls Suite 112 Rodriguezport AK 56234,Hard Nut Unlimited,123.456.3333,4.5

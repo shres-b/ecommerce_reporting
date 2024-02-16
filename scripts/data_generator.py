@@ -129,7 +129,7 @@ def generate_returned_date (order_status, sale_date):
 def generate_customer():
     customers = [
         {'name': 'Jane Doe',        'email': 'jane.doe@email.com',               'shippingaddress': '123 Main St. Anytown',                                     'billingaddress': '123 Main St. Anytown'},                                               
-        {'name': 'Bob Smith',       'email': 'email address removed',            'shippingaddress': '45 Oak Ave. Somecity',                                     'billingaddress': '45 Oak Ave. Somecity'},                                              
+        {'name': 'Bob Smith',       'email': 'bob.smith@email.com',              'shippingaddress': '45 Oak Ave. Somecity',                                     'billingaddress': '45 Oak Ave. Somecity'},                                              
         {'name': 'Jane Doe',        'email': 'jane.doe@email.com',               'shippingaddress': '123 Main St. Anytown',                                     'billingaddress': '123 Main St. Anytown'},                                               
         {'name': 'David Spencer',   'email': 'jonathan76@santos.com',            'shippingaddress': '631 Hines Drive Kirstenburgh ND 19567',                    'billingaddress': '631 Hines Drive Kirstenburgh ND 19567'},                          
         {'name': 'Brandon Bell',    'email': 'hunter88@hotmail.com',             'shippingaddress': '437 Lauren Falls Suite 112 Rodriguezport AK 56234',        'billingaddress': '437 Lauren Falls Suite 112 Rodriguezport AK 56234'},      
@@ -148,7 +148,8 @@ for _ in range(num_rows):
     sale_date = generate_sale_date()
     order_status = random.choice(['shipped', 'placed', 'returned'])
     returned_date = generate_returned_date(order_status, sale_date)
-    (customername, customeremail, shippingaddress, billingaddress) = generate_customer()
+    customer = generate_customer()
+    quantity_sold = random.randint(1, 10)
 
     row = [
         generate_order_id(),
@@ -156,17 +157,19 @@ for _ in range(num_rows):
         random.randint(100, 500),  # Customer ID
         random.randint(1, 15),  # Vendor ID
         sale_date, # Sale Date
-        random.randint(1, 10), # Quantity Sold
+        # Quantity Sold
         unit_price, # Product Selling Price
+        quantity_sold,
+        unit_price * quantity_sold,
         order_status, # Order Status
         returned_date, # Returned Date,
         product_name,
         category,
         subcategory,
-        customername, 
-        customeremail, 
-        shippingaddress, 
-        billingaddress,
+        customer['name'], 
+        customer['email'], 
+        customer['shippingaddress'], 
+        customer['billingaddress'],
         vendor,
         vendor_phone,
         vendor_rating
@@ -182,8 +185,9 @@ df = pd.DataFrame(data, columns=[
     'customerid',  
     'vendorid',    
     'sale_date',   
-    'quantitysold',    
+    'quantitysold',  
     'productsellingprice', 
+    'totalsale',
     'orderstatus', 
     'returndate',  
     'productname', 
