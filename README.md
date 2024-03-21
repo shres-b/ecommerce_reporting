@@ -1,42 +1,65 @@
-# ecommerce_reporting
 
-## Reporting for a typical e-commerce analytics
+**Title: Sales Data Generator**
 
-### For error while saving the output of select as csv
+**Description** 
 
-SHOW VARIABLES LIKE "secure_file_priv";
+This Python script generates realistic sales data for a hypothetical retail or e-commerce scenario. It includes features such as product categories, subcategories, vendor information, order details, customer data, and order statuses. This data can be used for analysis, testing, or visualization purposes.
 
-show variables like "local_infile";
+**Functionality**
 
-set global local_infile = 1;
+The core functions of this script include:
 
-https://stackoverflow.com/a/75540862/6134928
+* **`generate_order_id()`**: Creates a random order ID number.
+* **`generate_item_data()`**: Generates detailed item information including its category, subcategory, product name, price, vendor, vendor phone number, and a vendor rating.
+* **`generate_sale_date()`**: Creates a random sale date within the range of 2022-01-01 to 2023-12-31.
+* **`generate_rand_date()`**: Creates a random date (could be used for returns or other purposes) within the range of 2022-01-01 to 2023-12-31.
+* **`generate_returned_date()`**: Generates a random return date if the order status is "returned". Otherwise returns None.
+* **`generate_customer()`**: Simulates customer information by selecting a random customer from a predefined list.
 
-On Ubuntu 14 and Mysql 5.5.53 this setting seems to be enabled by default. To disable it you need to add secure-file-priv = "" to your my.cnf file under the mysqld config group. eg:-
+**Usage**
 
-sudo cat /etc/my.cnf
+1. **Install dependencies:**
+   ```bash
+   pip install pandas faker
+   ```
 
-[mysqld]
-secure-file-priv = ""
+2. **Run the script:**
+   ```bash
+   python sales_data_generator.py  # (Assuming you save the code as sales_data_generator.py)
+   ```
+   This script generates a CSV file named 'hypothetical_sales_data.csv'. 
 
-Restart server from the workbench
+**Customization**
 
-Permission denied: '/usr/local/mysql/data/mysqld.local.err'
- - sudo chown -R _mysql:_mysql /usr/local/mysql/data/
- - sudo chmod -R 755 /usr/local/mysql/data/
- - ps aux | grep mysql
- - stop mysql workbench
- - sudo kill -15  <pid>
- - sudo /usr/local/mysql/support-files/mysql.server start
- - restart mysql workbench
+You can easily adapt this script for your specific needs:
 
+* **Modify product data:** Change the  `categories`, `subcategories`, `product_names`, and `unit_prices` to suit your use case.
+* **Expand vendor information:** Update `vendors` and `vendor_details`.
+* **Change customer data:** Alter the `customers` list to reflect your customer profiles.
+* **Number of rows:** Adjust the `num_rows` variable to control the amount of data generated.
 
-copy all csvs to reporting folder
+**Data Structure (hypothetical_sales_data.csv)**
 
-sudo cp /tmp/query_output/* .
- - sudo chown -R shres:staff *
+The script produces a CSV file with the following columns:
 
+* `orderid`
+* `productid`
+* `customerid`
+* `vendorid`
+* `sale_date`
+* `quantitysold`
+* `productsellingprice`
+* `totalsale`
+* `orderstatus`
+* `returndate`
+* `productname`
+* `category`
+* `subcategory`
+* `customername`
+* `customeremail`
+* `shippingaddress`
+* `billingaddress`
+* `vendorname`
+* `vendorphone`
+* `vendorrating`
 
-pip install openpyxl pandas
-
-creating new python code
